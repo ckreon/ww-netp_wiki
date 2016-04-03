@@ -1,0 +1,18 @@
+# Site settings
+title: NetP Wiki
+email: opensourcesec@hushmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  A collection of open-source guides on Network Privacy & Security.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://" # the base hostname & protocol for your site
+
+# Build settings
+exclude: [README.md, LICENSE, Gemfile, Gemfile.lock, vendor, gulpfile.js, node_modules, package.json]
+gems:
+  - jekyll-assets
+  - jekyll-sitemap
+markdown: kramdown
+sass:
+  sass_dir: _dev/scss
+  style: compressed
+minify_html: true

@@ -1,2 +1,4 @@
-# netp_wiki
-The back-end to our Wiki, a collection of guides on network privacy.
+# Network Privacy Wiki
+Welcome to our open-source collection of guides on network privacy!
+
+This readme will be updated with guides for adding & editing content soon.
