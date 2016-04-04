@@ -4,14 +4,19 @@
   {% include head.html %}
 
   <body>
+    <!-- Lazy Load CSS -->
+    <!--[if !IE]> -->
+    <link rel="stylesheet" type="text/css" href="/assets/css/main.css" lazyload>
+    <!-- <![endif]-->
+    
+    {% include nav.html %}
 
-    {% include header.html %}
+    <!-- Main site container -->
+    <div class="container">
 
-    <div class="page-content">
-      <div class="wrapper">
-        {{ content }}
-      </div>
-    </div>
+      {{ content }}
+
+    </div> <!-- container -->
 
     {% include footer.html %}
 

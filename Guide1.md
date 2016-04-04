@@ -15,7 +15,11 @@ Lorem ipsum dolor sit amet, ne movet sonet denique est. Pri at graecis urbanitas
 Use two spaces after text to create a new line:  
 *This is italic text!*  
 **Random bold text.**  
-~~Scratch this out.~~  
+~~Scratch this out.~~
+
+Make a horizontal line with:
+
+---
 
 > This is a blockquote about nothing.
 > It can go on for multiple lines in markdown,
@@ -25,10 +29,6 @@ Just some random text before another blockquote.
 
 > Blockquotes can have *italic* and **bold** text too,
 > even ~~the scratched-out stuff~~.
-
-Make a horizontal rule with:
-
----
 
 #### Some lists:
 
@@ -48,13 +48,18 @@ Make a horizontal rule with:
 	* Item A
 	* Item B
 
+---
+
 #### Some Links:
 
 [This is an inline link](http://www.example.com)  
 http://www.example.com (direct link)
 
+---
 
 #### Here's a code-block example:
+
+*To make a codeblock, use 3 backticks ( ``` ) to open and close your code:*
 
 ```
 Tempor nostrud interesset nec eu, novum evertitur assueverit mei eu.
@@ -63,9 +68,13 @@ Latine sensibus appellantur vis ut, quo omnis argumentum repudiandae cu.
 Ne feugiat nominavi pro, mel et soluta equidem. Qui at saepe vivendum.
 ```
 
+*You can also make a codeblock by indenting text 4 spaces:*
+
     You can also do it this way
     (indent the text with 4 spaces)
     That makes it a codeblock too!
+
+---
 
 #### How about a table!
 
@@ -75,6 +84,8 @@ Ne feugiat nominavi pro, mel et soluta equidem. Qui at saepe vivendum.
 | will align     | *center* | Aligned    | .....*left* but the title will  |
 | *left*         | aligned  | Column!    | .....*center* (default)         |
 | **A**          | **B**    | **C**      | .....(dots are for readability) |
+
+---
 
 ### Want to know more?
 
