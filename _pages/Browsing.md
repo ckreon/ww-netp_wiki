@@ -25,7 +25,7 @@ There are many reasons a person may want or need anonymity. For more information
 ##### This guide will provide practical advice for multiple threat-levels.
 
 | Threat | Description |
-|:-------:|:---------------------------------------------------------------------------------|
+|:-------:|:-----------------------------------------------------------|
 | Level 1 | Spouse, Parents, Boss, etc. Most likely not illegal, but may be unethical/taboo. |
 | Level 2 | Privacy/identity concerns, ISP logging, geographic restrictions. |
 | Level 3 | Law enforcement, journalists, bloggers, activists, lawyers. |
@@ -39,13 +39,13 @@ This is where most general users will be. These recommendations will only be use
 
 ##### Use your browser in “private” mode. 
 
-What this does is prevents your browser from saving a browsing history or caching any cookies or data. Once you end your session and close the browser window everything is gone. 
+This prevents your browser from saving a browsing history and caching any cookies or data. Once you end your session and close the browser window, all local evidence is gone.
 
-PLEASE REMEMBER: your IT admin at work, a dubious user on your local network, your ISP or the NSA can still capture packets and analyze your traffic. A lot of this traffic is unencrypted. If you care about this escalate to a higher level. 
+**PLEASE REMEMBER:** *an IT admin at work, a user on your local network, an ISP, and state-level agencies can still capture packets and analyze your traffic. A majority of this traffic is unencrypted. If you care about this, escalate to a higher level.*
 
-| Select your browser: | 
-|:-------:|
-|[Mozilla Firefox](https://support.mozilla.org/en-US/kb/private-browsing-use-firefox-without-history)| 
+|Select your browser:|
+|:-------|
+|[Mozilla Firefox](https://support.mozilla.org/en-US/kb/private-browsing-use-firefox-without-history)|
 |[Google Chrome](https://support.google.com/chrome/answer/95464?hl=en)|
 |[Safari (OSX)](https://support.apple.com/kb/PH19216?locale=en_US)|
 |[Safari (iPhone/iPad/iPod Touch)](https://support.apple.com/en-us/HT203036)|
@@ -55,10 +55,10 @@ PLEASE REMEMBER: your IT admin at work, a dubious user on your local network, yo
 
 ##### Clear your cache, cookies, and history. 
 
-If you forgot to use your browse in a private/incognito mode, or want to make sure everything is clean you should also clear the cache, data and history for your browser manually.
+If you forgot to browse in a private mode, or want to make sure everything is clean by your own doing, you'll need to clear the cache and history for your browser manually.
 
-| Select your browser: |
-|:-------:|
+|Select your browser:|
+|:-------|
 |[Mozilla Firefox](https://support.mozilla.org/en-US/kb/how-clear-firefox-cache)|
 |[Google Chrome](https://support.google.com/chrome/answer/95582?hl=en)|
 |[Safari (OSX)](https://help.apple.com/safari/mac/9.0/#/sfri11471)|
