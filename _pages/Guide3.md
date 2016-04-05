@@ -84,7 +84,7 @@ function format () {
 
 ##### How about a table!
 
-| This                   | Is                     | A                      |
+| I'm                    | A                      | Table                  |
 |:---------------------- |:---------------------: | ----------------------:|
 | This column            | This is                | *Right*                |
 | will align             | *center*               | Aligned                |
