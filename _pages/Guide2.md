@@ -1,5 +1,6 @@
 ---
 layout: default
+permalink: '/Guide2/'
 title: Guide 2
 ---
 Guide 2
@@ -12,14 +13,14 @@ This is a comprehensive walkthrough of a subject!
 
 Lorem ipsum dolor sit amet, ne movet sonet denique est. Pri at graecis urbanitas argumentum, possit accusata mea ei. Iusto delectus dissentiunt ad ius, modo possim ei pri. Abhorreant comprehensam pri et, nam ex sonet offendit necessitatibus, facilis accusam vix ex. Pri unum falli reformidans in, ut vim graecis salutatus aliquando. Ludus numquam adversarium qui at, graeci dolorem no sea, sed at erroribus vituperatoribus.
 
+**Make a horizontal line with:**
+
+---
+
 Use two spaces after text to create a new line:  
 *This is italic text!*  
 **Random bold text.**  
 ~~Scratch this out.~~
-
-Make a horizontal line with:
-
----
 
 > This is a blockquote about nothing.
 > It can go on for multiple lines in markdown,
@@ -34,19 +35,19 @@ Just some random text before another blockquote.
 
 1. Ordered List
 2. Here's an element with an ordered sub-list:
-	1. Item 1
-	2. Item 2
+  1. Item 1
+  2. Item 2
 3. Here's an element with an un-ordered sub-list:
-	* Item A
-	* Item B
+  * Item A
+  * Item B
 
 * Unordered List
 * Here's an element with an ordered sub-list:
-	1. Item 1
-	2. Item 2
+  1. Item 1
+  2. Item 2
 * And another element with an un-ordered sub-list:
-	* Item A
-	* Item B
+  * Item A
+  * Item B
 
 ---
 
@@ -89,7 +90,9 @@ function format () {
 | will align             | *center*               | Aligned                |
 | *left*                 | aligned                | Column!                |
 | **A**                  | **B**                  | **C**                  |
-| /..................../ | /..................../ | /..................../ |
+| ---------------------- | ---------------------- | ---------------------- |
+
+*The bottom dashes render, and are used here to spread out the table.*
 
 ---
 

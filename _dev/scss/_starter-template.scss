@@ -3,10 +3,19 @@ body {
 }
 
 blockquote {
-	padding: 0.5rem 1rem;
-  margin-bottom: 1rem;
-  font-size: 1.25rem;
-  border-left: 0.25rem solid #eceeef;
+	padding: .5rem 1rem;
+  margin-bottom: .5rem;
+  font-size: 1.15rem;
+  border-left: .25rem solid #eceeef;
+}
+
+blockquote p {
+	margin: 0;
+}
+
+h1, h2, h3, h4, h5, h6 {
+	margin-top: 1.5rem;
+	margin-bottom: .7rem;
 }
 
 h1 {
@@ -17,13 +26,48 @@ h2 {
 	margin-bottom: 1.2rem;
 }
 
+pre {
+	margin: 0;
+}
+
+// table {
+// 	margin-top: 2rem;
+// 	margin-bottom: 2rem;
+// 	padding: 1rem;
+// 	border: 1px solid #eceeef;
+// }
+
 table {
-	margin-top: 2rem;
-	margin-bottom: 2rem;
+	margin-top: 1rem;
+	margin-bottom: 1rem;
+	color: #333;
+	border-collapse:
+	collapse; border-spacing: 0;
+}
+
+td, th {
+	border: 1px solid #CCC;
+	height: 30px;
+	padding-top: .5rem;
+	padding-bottom: .5rem;
+	padding-left: 1rem;
+	padding-right: 1rem;
+
+}
+
+th {
+background: #F3F3F3;
+font-weight: bold;
+}
+
+td {
+background: #FAFAFA;
+text-align: center;
 }
 
 .highlight {
 	margin: 1.5rem;
+	padding: .5rem;
 	background: #eceeef;
 }
 

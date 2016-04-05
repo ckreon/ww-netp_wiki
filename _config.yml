@@ -1,30 +1,26 @@
-# Site settings
+# Site Settings
 title: NetP Wiki
-
-email: opensourcesec@hushmail.com
-
+email: ckreon@gmail.com
 github_username: ckreon
+description: 'A collection of open-source guides focusing on Network Privacy & Security.'
+url: 'http://159.203.247.147'
+baseurl: '' # the subpath of your site, e.g. /blog
 
-description: > # this means to ignore newlines until "baseurl:"
-  A collection of open-source guides focusing on Network Privacy & Security.
+# Build Settings
+include: ['_pages']
+exclude: ['README.md', 'LICENSE', 'Gemfile', 'Gemfile.lock', 'vendor', 'gulpfile.js', 'node_modules', 'package.json']
+gems: ['jekyll-assets', 'jekyll-sitemap']
+minify_html: 'true'
 
-baseurl: "" # the subpath of your site, e.g. /blog
+# FrontMatter Settings
+permalink: '/:title/'
 
-url: "http://" # the base hostname & protocol for your site
-
-# Build settings
-exclude: [README.md, LICENSE, Gemfile, Gemfile.lock, vendor, gulpfile.js, node_modules, package.json]
-
-gems:
-  - jekyll-assets
-  - jekyll-sitemap
-
-markdown: redcarpet
-redcarpet:
-  extensions: ["no_intra_emphasis", "tables", "autolink", "strikethrough", "with_toc_data"]
-
+# Style Settings
 sass:
-  sass_dir: _dev/scss
-  style: compressed
+  sass_dir: '_dev/scss'
+  style: 'compressed'
 
-minify_html: true
+# Markdown Settings
+markdown: 'redcarpet'
+redcarpet:
+  extensions: ['no_intra_emphasis', 'tables', 'autolink', 'strikethrough', 'with_toc_data']
