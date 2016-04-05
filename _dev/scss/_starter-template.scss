@@ -27,43 +27,12 @@ h2 {
 	margin-bottom: 1.2rem;
 }
 
+hr {
+	margin: .5rem;
+}
+
 pre {
 	margin: 0;
-}
-
-// table {
-// 	margin-top: 2rem;
-// 	margin-bottom: 2rem;
-// 	padding: 1rem;
-// 	border: 1px solid #eceeef;
-// }
-
-table {
-	margin-top: 1rem;
-	margin-bottom: 1rem;
-	color: #333;
-	border-collapse:
-	collapse; border-spacing: 0;
-}
-
-td, th {
-	border: 1px solid #CCC;
-	height: 30px;
-	padding-top: .5rem;
-	padding-bottom: .5rem;
-	padding-left: 1rem;
-	padding-right: 1rem;
-
-}
-
-th {
-background: #F3F3F3;
-font-weight: bold;
-}
-
-td {
-background: #FAFAFA;
-text-align: center;
 }
 
 .highlight {
@@ -79,8 +48,4 @@ text-align: center;
 
 .navbar-nav {
 	float: right;
-}
-
-.text-center {
-	text-align: center;
 }

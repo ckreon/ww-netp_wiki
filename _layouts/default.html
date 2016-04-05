@@ -18,6 +18,10 @@
 
     </div> <!-- container -->
 
+    <div class="timestamp text-xs-right">
+      <p><strong>Site Updated:</strong> {{ site.time | date: '%b %d, %Y @ %R%P %Z' }}</p>
+    </div>
+
     {% include footer.html %}
 
   </body>

@@ -1,0 +1,40 @@
+footer {
+	font-size: .8rem;
+}
+
+table {
+	margin-top: 1rem;
+	margin-bottom: 1rem;
+	color: #333;
+	border-collapse:
+	collapse; border-spacing: 0;
+}
+
+td, th {
+	border: 1px solid #CCC;
+	height: 30px;
+	padding-top: .5rem;
+	padding-bottom: .5rem;
+	padding-left: 1rem;
+	padding-right: 1rem;
+
+}
+
+th {
+background: #F3F3F3;
+font-weight: bold;
+}
+
+td {
+background: #FAFAFA;
+text-align: center;
+}
+
+.timestamp {
+	font-size: .75rem;
+	margin: 0 1rem 0 1rem;
+}
+
+.timestamp p {
+	margin: 0;
+}
