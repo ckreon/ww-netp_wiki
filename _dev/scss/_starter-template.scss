@@ -2,14 +2,40 @@ body {
     padding-top: 5rem;
 }
 
-.starter-template {
-    padding: 3rem 1.5rem;
-    text-align: center;
-}
-
 blockquote {
 	padding: 0.5rem 1rem;
   margin-bottom: 1rem;
   font-size: 1.25rem;
   border-left: 0.25rem solid #eceeef;
+}
+
+h1 {
+	margin-bottom: 1.5rem;
+}
+
+h2 {
+	margin-bottom: 1.2rem;
+}
+
+table {
+	margin-top: 2rem;
+	margin-bottom: 2rem;
+}
+
+.highlight {
+	margin: 1.5rem;
+	background: #eceeef;
+}
+
+.starter-template {
+    padding: 3rem 1.5rem;
+    text-align: center;
+}
+
+.navbar-nav {
+	float: right;
+}
+
+.text-center {
+	text-align: center;
 }

@@ -8,7 +8,7 @@ Guide 1
 This is a comprehensive walkthrough of a subject!
 -------------------------------------------------
 
-#### This is just filler text:
+##### This is just filler text:
 
 Lorem ipsum dolor sit amet, ne movet sonet denique est. Pri at graecis urbanitas argumentum, possit accusata mea ei. Iusto delectus dissentiunt ad ius, modo possim ei pri. Abhorreant comprehensam pri et, nam ex sonet offendit necessitatibus, facilis accusam vix ex. Pri unum falli reformidans in, ut vim graecis salutatus aliquando. Ludus numquam adversarium qui at, graeci dolorem no sea, sed at erroribus vituperatoribus.
 
@@ -30,7 +30,7 @@ Just some random text before another blockquote.
 > Blockquotes can have *italic* and **bold** text too,
 > even ~~the scratched-out stuff~~.
 
-#### Some lists:
+##### Some lists:
 
 1. Ordered List
 2. Here's an element with an ordered sub-list:
@@ -50,25 +50,30 @@ Just some random text before another blockquote.
 
 ---
 
-#### Some Links:
+##### Some Links:
 
 [This is an inline link](http://www.example.com)  
 http://www.example.com (direct link)
 
 ---
 
-#### Here's a code-block example:
+##### Here's a code-block example:
 
-*To make a codeblock, use 3 backticks ( ``` ) to open and close your code:*
+**To make a codeblock, use 3 backticks ( ``` ) to open and close your code:**
 
 ```
-Tempor nostrud interesset nec eu, novum evertitur assueverit mei eu.
-Ad scaevola suavitate definitionem nam.
-Latine sensibus appellantur vis ut, quo omnis argumentum repudiandae cu.
-Ne feugiat nominavi pro, mel et soluta equidem. Qui at saepe vivendum.
+function format () {
+  var args = [].slice.call(arguments);
+  var initial = args.shift();
+
+  function replacer (text, replacement) {
+    return text.replace('%s', replacement);
+  }
+  return args.reduce(replacer, initial);
+}
 ```
 
-*You can also make a codeblock by indenting text 4 spaces:*
+**You can also make a codeblock by indenting text 4 spaces:**
 
     You can also do it this way
     (indent the text with 4 spaces)
@@ -76,14 +81,15 @@ Ne feugiat nominavi pro, mel et soluta equidem. Qui at saepe vivendum.
 
 ---
 
-#### How about a table!
+##### How about a table!
 
-| This           | Is       | A          | Table                           |
-|:-------------- |:--------:| ----------:| ------------------------------- |
-| This column    | This is  | *Right*    | .....This column will align     |
-| will align     | *center* | Aligned    | .....*left* but the title will  |
-| *left*         | aligned  | Column!    | .....*center* (default)         |
-| **A**          | **B**    | **C**      | .....(dots are for readability) |
+| This                   | Is                     | A                      |
+|:---------------------- |:---------------------: | ----------------------:|
+| This column            | This is                | *Right*                |
+| will align             | *center*               | Aligned                |
+| *left*                 | aligned                | Column!                |
+| **A**                  | **B**                  | **C**                  |
+| /..................../ | /..................../ | /..................../ |
 
 ---
 
