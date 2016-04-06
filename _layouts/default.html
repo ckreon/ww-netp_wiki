@@ -14,12 +14,14 @@
     <!-- Main site container -->
     <div class="container">
 
+      <a class="anchor" name="top-of-page"></a>
+
       {{ content }}
 
     </div> <!-- container -->
 
     <div class="timestamp text-xs-right">
-      <p><strong>Site Updated:</strong> {{ site.time | date: '%b %d, %Y @ %R%P %Z' }}</p>
+      <p><strong>Site Updated:</strong> {{ site.time | date: '%b %d, %Y @ %R %Z' }}</p>
     </div>
 
     {% include footer.html %}

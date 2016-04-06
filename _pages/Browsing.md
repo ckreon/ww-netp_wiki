@@ -9,6 +9,15 @@ Browsing Anonymously
 A walk-through of safe(r) browsing recommendations.
 --------------------------------------------------
 
+##### This guide will provide practical advice for multiple threat-levels.
+
+| Threat | Description |
+|:-------:|:-----------------------------------------------------------|
+| **[Level 1](#level1)** | Privacy for Family & Friends, Browsing on Public Computers|
+| **[Level 2](#level2)** | Personal/Identity Concerns, ISP Logging, Geographic Restrictions|
+| **[Level 3](#level3)** | Law Enforcement, Journalists, Bloggers, Activists, Lawyers|
+| **[Level 4](#level4)** | Whistle-Blowers, Intelligence Operators, State-Level Threats|
+
 ##### Disclaimer:
 
 * We are not lawyers, and this is not legal advice.
@@ -22,20 +31,13 @@ There are many reasons a person may want or need anonymity. For more information
 
 ---
 
-##### This guide will provide practical advice for multiple threat-levels.
-
-| Threat | Description |
-|:-------:|:-----------------------------------------------------------|
-| Level 1 | Spouse, Parents, Boss, etc. Most likely not illegal, but may be unethical/taboo. |
-| Level 2 | Privacy/identity concerns, ISP logging, geographic restrictions. |
-| Level 3 | Law enforcement, journalists, bloggers, activists, lawyers. |
-| Level 4 | Whistle-blowers, intelligence operators, state-level threats. |
-
-Level 1
---------------------------------------------------
+<details>
+<summary>
+**Level 1 - Basic Private Browsing**
+<a class="anchor" name="level1"></a>
+</summary> 
 
 This is where most general users will be. These recommendations will only be useful against other non-technical threats. If you have any concerns about privacy that goes beyond the most basic protection, realize this level will do ZERO to protect you from a more sophisticated threat. If you're using a public terminal you'll definitely want to follow these steps.
-
 
 ##### Use your browser in “private” mode. 
 
@@ -65,3 +67,43 @@ If you forgot to browse in a private mode, or want to make sure everything is cl
 |[Safari (iPhone/iPad/iPod Touch)](https://support.apple.com/en-us/HT201265)|
 |[Internet Explorer](http://windows.microsoft.com/en-us/windows7/how-to-delete-your-browsing-history-in-internet-explorer-9)|
 |[Microsoft Edge](http://windows.microsoft.com/en-us/windows-10/view-delete-browsing-history-microsoft-edge)|
+
+> [Top <i class="fa fa-arrow-circle-up fa-lg"></i>](#top-of-page)
+
+</details>
+
+<details>
+<summary>
+**Level 2 - Browsing Via Proxy**
+<a class="anchor" name="level2"></a>
+</summary>
+
+Compelling information.
+
+> [Top <i class="fa fa-arrow-circle-up fa-lg"></i>](#top-of-page)
+
+</details>
+
+<details>
+<summary>
+**Level 3 - Utilizing Encryption**
+<a class="anchor" name="level3"></a>
+</summary>
+
+Compelling information.
+
+> [Top <i class="fa fa-arrow-circle-up fa-lg"></i>](#top-of-page)
+
+</details>
+
+<details>
+<summary>
+**Level 4 - Advanced Anonymity**
+<a class="anchor" name="level4"></a>
+</summary>
+
+Compelling information.
+
+> [Top <i class="fa fa-arrow-circle-up fa-lg"></i>](#top-of-page)
+
+</details>

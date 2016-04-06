@@ -1,3 +1,5 @@
+// Bootstrap Starter Template, with a few tweaks
+
 body {
     padding-top: 5rem;
 }
@@ -6,12 +8,13 @@ blockquote {
 	padding: .5rem 1rem;
   margin-bottom: .5rem;
   font-size: 1.15rem;
-  border-left: .25rem solid #eceeef;
+  border-right: .25rem solid #eceeef;
   background: #FAFAFA;
 }
 
 blockquote p {
 	margin: 0;
+	text-align: right;
 }
 
 h1, h2, h3, h4, h5, h6 {
