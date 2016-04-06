@@ -48,6 +48,37 @@ a.anchor {
     visibility: hidden;
 }
 
+.disclaimer {
+	font-size: .6rem;
+}
+
+.disclaimer-header {
+	font-size: .7rem;
+}
+
+.div-link-wrap {
+	display: table;
+	margin: 0 auto;
+}
+
+.github-link {
+	display: table;
+	padding: 1rem 1.5rem 0 1.5rem;
+	background: #F3F3F3;
+	border-radius: 1rem;
+	margin: 0 auto;
+	margin-top: 2rem;
+}
+
+a .github-link {
+	color: #373a3c;
+}
+
+a .github-link:hover {
+	color: black;
+	background: #EFEFEF;
+}
+
 .timestamp {
 	font-size: .75rem;
 	margin: 0 1rem 0 1rem;
