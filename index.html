@@ -12,33 +12,14 @@ title: Home
 </div> <!-- starter-template -->
 
 <div class="text-xs-center">
-<a href="{{ site.github_url }}">
-<button type="button" class="btn btn-secondary github-link">
-	Collaborate with us on GitHub!<br />
-	<i class="fa fa-github fa-3x"></i>
-</button>
-</a>
+	<a href="{{ site.github_url }}">
+		<button type="button" class="btn btn-secondary github-link">
+			Collaborate with us on GitHub!<br />
+			<i class="fa fa-github fa-3x"></i>
+		</button>
+	</a>
 </div>
 
 <hr>
 
-<div class="disclaimer">
-
-	<h6 class="disclaimer-header">Disclaimers for the {{ site.title }} -</h6>
-
-	<p>All the information on this website is published in good faith and for general information purpose only. Neither the {{ site.title }} nor {{ site.company }} makes any warranties about the completeness, reliability, or accuracy of this information. Any action you take in regards to the information you find on this website (http://159.203.247.147), is strictly at your own risk. Neither the {{ site.title }} nor {{ site.company }} will be held liable for any losses and/or damages in connection with the use of this website.</p>
-
-	<p>From this website, you can visit other websites by following hyperlinks to such external sites. While we strive to provide only quality links to useful and ethical websites, we have no control over the content and nature of these sites. These links to other websites do not imply a recommendation for all the content found on these sites. Site owners and content may change without notice and may occur before we have the opportunity to remove a link which may have gone 'bad'.</p>
-
-	<p>Please be also aware that when you leave this website, other sites may have different privacy policies and terms which are beyond the {{ site.title }}'s and {{ site.company }}'s control. Be sure to check the Privacy Policies of these sites, as well as their "Terms of Service" before engaging in any business or otherwise sharing any information.</p>
-
-	<h6 class="disclaimer-header">Consent -</h6>
-
-	<p>By using our website, you hereby consent to our disclaimer and agree to its terms.</p>
-
-	<h6 class="disclaimer-header">Updates -</h6>
-
-	<p>This site disclaimer was last modified on:<br />
-	Wednesday, April 6th, 2016</p>
-
-</div> <!-- disclaimer -->
+{% include disclaimer.html %}

@@ -35,7 +35,7 @@ There are many reasons a person may want or need anonymity. For more information
 <summary>
 **Level 1 - Basic Private Browsing**
 <a class="anchor" name="level1"></a>
-</summary> 
+</summary>
 
 This is where most general users will be. These recommendations will only be useful against other non-technical threats. If you have any concerns about privacy that goes beyond the most basic protection, realize this level will do ZERO to protect you from a more sophisticated threat. If you're using a public terminal you'll definitely want to follow these steps.
 
