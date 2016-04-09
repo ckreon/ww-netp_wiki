@@ -8,12 +8,14 @@ The NetP Wiki is built mainly with Markdown. If that is a new term, it's a strai
 
 ## Markdown Reference:
 
-**First you'll see Markdown code, then you'll see what that code outputs**
+Markdown:
 
 ```
 Markdown Guide
 ==============
 ```
+
+Result:
 
 Markdown Guide
 ==============
