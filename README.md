@@ -67,7 +67,7 @@ This is a secondary-heading!
 
 ##### How low can you go?
 
-###### This low, actually, there's nothing beyond here
+###### This is the lowest, actually
 ```
 
 # This is the same as the main header
@@ -80,7 +80,7 @@ This is a secondary-heading!
 
 ##### How low can you go?
 
-###### This low, actually, there's nothing beyond here
+###### This is the lowest, actually
 
 * **[Back to contents](#contents)**
 
