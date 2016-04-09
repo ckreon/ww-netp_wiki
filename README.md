@@ -165,27 +165,25 @@ http://www.example.com (direct link)
 ```
 
 [This is an inline link](http://www.example.com)  
-http://www.example.com (direct link)
+http://www.example.com
 
 ---
 
 **Codeblocks:**
 
-```
-**To make a codeblock, use 3 backticks ( ``` ) to open and close your code:**
-
-```
-function format () {
-  var args = [].slice.call(arguments);
-  var initial = args.shift();
-
-  function replacer (text, replacement) {
-    return text.replace('%s', replacement);
-  }
-  return args.reduce(replacer, initial);
-}
-```
-```
+    **To make a codeblock, use 3 backticks ( ``` ) to open and close your code:**
+    
+    ```
+    function format () {
+      var args = [].slice.call(arguments);
+      var initial = args.shift();
+    
+      function replacer (text, replacement) {
+        return text.replace('%s', replacement);
+      }
+      return args.reduce(replacer, initial);
+    }
+    ```
 
 **To make a codeblock, use 3 backticks ( ``` ) to open and close your code:**
 
