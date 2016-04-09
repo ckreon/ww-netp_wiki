@@ -9,6 +9,8 @@ This readme will be updated with guides for adding & editing content soon.
 
 The NetP Wiki is built mainly with Markdown. If that is a new term, it's a straightforward and simple syntax that makes styling text easy. We've made a quick-start guide for reference below.
 
+<a name="contents"></a>
+
 ## Markdown Reference:
 
 1. [Headers](#headers)
@@ -76,6 +78,8 @@ This is a secondary-heading!
 
 ###### This low, actually, there's nothing beyond here
 
+**[Back to contents](#contents)**
+
 ---
 
 <a name="horizontal"></a>
@@ -99,6 +103,10 @@ ___ (three underscores)
 
 ___
 
+**[Back to contents](#contents)**
+
+---
+
 <a name="newlines"></a>
 
 #### New Lines:
@@ -119,6 +127,8 @@ Use an extra line to create a new paragraph:
 **Random bold text**   
 ~~Scratch this out~~
 
+**[Back to contents](#contents)**
+
 ---
 
 <a name="blockquotes"></a>
@@ -136,6 +146,8 @@ Use an extra line to create a new paragraph:
 > It can go on for multiple lines in markdown,
 > and can have *italic* and **bold** text too,
 > even ~~the scratched-out stuff~~!
+
+**[Back to contents](#contents)**
 
 ---
 
@@ -177,6 +189,8 @@ Use an extra line to create a new paragraph:
   * Item A
   * Item B
 
+**[Back to contents](#contents)**
+
 ---
 
 <a name="links"></a>
@@ -190,6 +204,8 @@ http://www.example.com
 
 [This is an inline link](http://www.example.com)  
 http://www.example.com
+
+**[Back to contents](#contents)**
 
 ---
 
@@ -223,6 +239,8 @@ function format () {
 }
 ```
 
+**[Back to contents](#contents)**
+
 ---
 
 <a name="tables"></a>
@@ -250,5 +268,7 @@ The bottom dashes aren't necessary, they just spread out the table to better sho
 | ---------------------- | ---------------------- | ---------------------- |
 
 ---
+
+**[Back to contents](#contents)**
 
 **[Back to top](#top)**
