@@ -206,7 +206,7 @@ The bottom dashes aren't necessary, they just spread out the table to better sho
 | This column            | This is                | *Right*                |
 | will align             | *center*               | Aligned                |
 | *left*                 | aligned                | Column!                |
-| #### A####                   | #### B####                   | #### C####                   |
+| **A**                  | **B**                  | **C**                  |
 | ---------------------- | ---------------------- | ---------------------- |
 ```
 
@@ -215,7 +215,7 @@ The bottom dashes aren't necessary, they just spread out the table to better sho
 | This column            | This is                | *Right*                |
 | will align             | *center*               | Aligned                |
 | *left*                 | aligned                | Column!                |
-| #### A####                   | #### B####                   | #### C####                   |
+| **A**                  | **B**                  | **C**                  |
 | ---------------------- | ---------------------- | ---------------------- |
 
 ### Want to know more?
