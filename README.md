@@ -4,7 +4,7 @@
 
 ***-This project is still under construction-***
 
-### Welcome to our open-source collection of guides focusing on Network Privacy & Security!
+#### Welcome to our open-source collection of guides focusing on Network Privacy & Security!
 
 If you are new to Github, and would like to create or update a guide, head into the **[_pages](https://github.com/ckreon/netp_wiki/tree/master/_pages)** folder.
 
