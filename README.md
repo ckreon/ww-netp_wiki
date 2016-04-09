@@ -1,4 +1,7 @@
 # NetP Wiki
+
+<a name="top"></a>
+
 Welcome to our open-source collection of guides focusing on Network Privacy & Security!
 
 This readme will be updated with guides for adding & editing content soon.
@@ -7,6 +10,16 @@ This readme will be updated with guides for adding & editing content soon.
 The NetP Wiki is built mainly with Markdown. If that is a new term, it's a straightforward and simple syntax that makes styling text easy. We've made a quick-start guide for reference below.
 
 ## Markdown Reference:
+
+* [Headers](headers)
+* [Horizontal Lines](horizontal)
+* [New Lines](newlines)
+* [Blockquotes](blockquotes)
+* [Lists](lists)
+* [Links](links)
+* [Codeblocks](codeblocks)
+* [Tables](tables)
+* [Full Markdown Cheatsheat](https://github.com/adam-p/markdown-here/wiki/Markdown-Here-Cheatsheet)
 
 #### Main Header in Markdown:
 
@@ -20,7 +33,6 @@ This is a main header!
 This is a main header!
 ======================
 
-
 #### Secondary Header:
 
 ```
@@ -30,6 +42,8 @@ This is a secondary-heading!
 
 This is a secondary-heading!
 ----------------------------
+
+<a name="headers"></a>
 
 #### Section Headers:
 
@@ -63,6 +77,8 @@ This is a secondary-heading!
 
 #### Horizontal Lines:
 
+<a name="horizontal"></a>
+
 ```
 A horizontal line can be made a few ways:
 
@@ -81,6 +97,8 @@ ___ (three underscores)
 ___
 
 #### New Lines:
+
+<a name="newlines"></a>
 
 ```
 Use two spaces after text to create a new line:  
@@ -102,6 +120,8 @@ Use an extra line to create a new paragraph:
 
 #### Blockquotes:
 
+<a name="blockquotes"></a>
+
 ```
 > This is a blockquote.
 > It can go on for multiple lines in markdown,
@@ -117,6 +137,8 @@ Use an extra line to create a new paragraph:
 ---
 
 #### Lists:
+
+<a name="lists"></a>
 
 ```
 1. Ordered List
@@ -155,6 +177,8 @@ Use an extra line to create a new paragraph:
 ---
 
 #### Links:
+
+<a name="links"></a>
 
 ```
 [This is an inline link](http://www.example.com)  
@@ -198,6 +222,8 @@ function format () {
 
 #### Tables:
 
+<a name="tables"></a>
+
 ```
 The bottom dashes aren't necessary, they just spread out the table to better show the different alignments.
 
@@ -218,6 +244,4 @@ The bottom dashes aren't necessary, they just spread out the table to better sho
 | **A**                  | **B**                  | **C**                  |
 | ---------------------- | ---------------------- | ---------------------- |
 
-### Want to know more?
-
-**[Markdown Cheatsheat](https://github.com/adam-p/markdown-here/wiki/Markdown-Here-Cheatsheet)**
+**[Back to top](top)**
