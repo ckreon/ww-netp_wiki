@@ -20,6 +20,8 @@ This is a main header!
 This is a main header!
 ======================
 
+---
+
 ```
 This is a secondary-heading!
 ----------------------------
@@ -28,6 +30,8 @@ This is a secondary-heading!
 This is a secondary-heading!
 ----------------------------
 
+---
+
 ```
 ##### Use hash-tags to create section headers
 ```
@@ -35,13 +39,13 @@ This is a secondary-heading!
 ##### Use hash-tags to create section headers
 
 ```
-**Make a horizontal line with:**
+**A horizontal line can be made in a few ways:**
 
----
+--- (three dashes)
 
-***
+*** (three asterisks)
 
-___
+___ (three underscores)
 
 ```
 
@@ -51,20 +55,54 @@ ___
 
 ___
 
+
+```
+Use two spaces after text to create a new line:  
+*This is italic text!*  
+**Random bold text.**  
+~~Scratch this out.~~
+```
 
 Use two spaces after text to create a new line:  
 *This is italic text!*  
 **Random bold text.**  
 ~~Scratch this out.~~
 
-> This is a blockquote about nothing.
+---
+
+```
+> This is a blockquote
 > It can go on for multiple lines in markdown,
-> but will render in-line on the page!
+> and can have *italic* and **bold** text too,
+> even ~~the scratched-out stuff~~!
+```
 
-Just some random text before another blockquote.
+> This is a blockquote
+> It can go on for multiple lines in markdown,
+> and can have *italic* and **bold** text too,
+> even ~~the scratched-out stuff~~!
 
-> Blockquotes can have *italic* and **bold** text too,
-> even ~~the scratched-out stuff~~.
+---
+
+```
+##### Some lists:
+
+1. Ordered List
+2. Here's an element with an ordered sub-list:
+  1. Item 1
+  2. Item 2
+3. Here's an element with an un-ordered sub-list:
+  * Item A
+  * Item B
+
+* Unordered List
+* Here's an element with an ordered sub-list:
+  1. Item 1
+  2. Item 2
+* And another element with an un-ordered sub-list:
+  * Item A
+  * Item B
+```
 
 ##### Some lists:
 
