@@ -8,20 +8,20 @@ The NetP Wiki is built mainly with Markdown. If that is a new term, it's a strai
 
 ## Markdown Reference:
 
-**Main Header in Markdown:**
+**Main Header in Markdown:
 
 ```
 This is a main header!
 ======================
 ```
 
-**Result:**
+**Result:
 
 This is a main header!
 ======================
 
 
-**Secondary Header:**
+**Secondary Header:
 
 ```
 This is a secondary-heading!
@@ -31,7 +31,7 @@ This is a secondary-heading!
 This is a secondary-heading!
 ----------------------------
 
-**Section Headers:**
+**Section Headers:
 ```
 # This is the same as the main header
 
@@ -60,10 +60,10 @@ This is a secondary-heading!
 
 ---
 
-**Horizontal Lines:**
+**Horizontal Lines:
 
 ```
-**A horizontal line can be made a few ways:**
+A horizontal line can be made a few ways:
 
 --- (three dashes)
 
@@ -79,7 +79,7 @@ ___ (three underscores)
 
 ___
 
-**New Lines:**
+**New Lines:
 
 ```
 Use two spaces after text to create a new line:  
@@ -99,7 +99,7 @@ Use an extra line to create a new paragraph:
 
 ---
 
-**Blockquotes:**
+**Blockquotes:
 
 ```
 > This is a blockquote.
@@ -115,10 +115,10 @@ Use an extra line to create a new paragraph:
 
 ---
 
-**Lists:**
+**Lists:
 
 ```
-##### Some lists:
+**Some lists:**
 
 1. Ordered List
 2. Here's an element with an ordered sub-list:
@@ -137,7 +137,7 @@ Use an extra line to create a new paragraph:
   * Item B
 ```
 
-##### Some lists:
+**Some lists**
 
 1. Ordered List
 2. Here's an element with an ordered sub-list:
@@ -157,11 +157,11 @@ Use an extra line to create a new paragraph:
 
 ---
 
-**Links:**
+**Links:
 
 ```
 [This is an inline link](http://www.example.com)  
-http://www.example.com (direct link)
+http://www.example.com
 ```
 
 [This is an inline link](http://www.example.com)  
@@ -169,9 +169,9 @@ http://www.example.com
 
 ---
 
-**Codeblocks:**
+**Codeblocks:
 
-    **To make a codeblock, use 3 backticks ( ``` ) to open and close your code:**
+    To make a codeblock, use 3 backticks ( ``` ) to open and close your code:
     
     ```
     function format () {
@@ -184,8 +184,6 @@ http://www.example.com
       return args.reduce(replacer, initial);
     }
     ```
-
-**To make a codeblock, use 3 backticks ( ``` ) to open and close your code:**
 
 ```
 function format () {
@@ -201,9 +199,10 @@ function format () {
 
 ---
 
-**Tables:***
+**Tables:*
 
-##### How about a table!
+```
+The bottom dashes aren't necessary, they just spread out the table to better show the different alignments.
 
 | I'm                    | A                      | Table                  |
 |:---------------------- |:---------------------: | ----------------------:|
@@ -212,10 +211,15 @@ function format () {
 | *left*                 | aligned                | Column!                |
 | **A**                  | **B**                  | **C**                  |
 | ---------------------- | ---------------------- | ---------------------- |
+```
 
-*The bottom dashes render, and are used here to spread out the table.*
-
----
+| I'm                    | A                      | Table                  |
+|:---------------------- |:---------------------: | ----------------------:|
+| This column            | This is                | *Right*                |
+| will align             | *center*               | Aligned                |
+| *left*                 | aligned                | Column!                |
+| **A**                  | **B**                  | **C**                  |
+| ---------------------- | ---------------------- | ---------------------- |
 
 ### Want to know more?
 
