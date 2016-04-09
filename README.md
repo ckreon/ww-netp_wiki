@@ -8,7 +8,7 @@ The NetP Wiki is built mainly with Markdown. If that is a new term, it's a strai
 
 ## Markdown Reference:
 
-**Markdown:**
+**Main Header in Markdown:**
 
 ```
 This is a main header!
@@ -20,7 +20,8 @@ This is a main header!
 This is a main header!
 ======================
 
----
+
+**Secondary Header:**
 
 ```
 This is a secondary-heading!
@@ -30,16 +31,39 @@ This is a secondary-heading!
 This is a secondary-heading!
 ----------------------------
 
+**Section Headers:**
+```
+# This is the same as the main header
+
+## This is the same as the secondary header
+
+### A little bit smaller
+
+#### Even smaller still
+
+##### How low can you go?
+
+###### This low, actually, there's nothing beyond here
+```
+
+# This is the same as the main header
+
+## This is the same as the secondary header
+
+### A little bit smaller
+
+#### Even smaller still
+
+##### How low can you go?
+
+###### This low, actually, there's nothing beyond here
+
 ---
 
-```
-##### Use hash-tags to create section headers
-```
-
-##### Use hash-tags to create section headers
+**Horizontal Lines:**
 
 ```
-**A horizontal line can be made in a few ways:**
+**A horizontal line can be made a few ways:**
 
 --- (three dashes)
 
@@ -55,23 +79,30 @@ ___ (three underscores)
 
 ___
 
+**New Lines:**
 
 ```
 Use two spaces after text to create a new line:  
+Use an extra line to create a new paragraph:
+
 *This is italic text!*  
 **Random bold text.**  
 ~~Scratch this out.~~
 ```
 
 Use two spaces after text to create a new line:  
+Use an extra line to create a new paragraph:
+
 *This is italic text!*  
 **Random bold text.**  
 ~~Scratch this out.~~
 
 ---
 
+**Blockquotes:**
+
 ```
-> This is a blockquote
+> This is a blockquote.
 > It can go on for multiple lines in markdown,
 > and can have *italic* and **bold** text too,
 > even ~~the scratched-out stuff~~!
@@ -83,6 +114,8 @@ Use two spaces after text to create a new line:
 > even ~~the scratched-out stuff~~!
 
 ---
+
+**Lists:**
 
 ```
 ##### Some lists:
@@ -124,14 +157,35 @@ Use two spaces after text to create a new line:
 
 ---
 
-##### Some Links:
+**Links:**
+
+```
+[This is an inline link](http://www.example.com)  
+http://www.example.com (direct link)
+```
 
 [This is an inline link](http://www.example.com)  
 http://www.example.com (direct link)
 
 ---
 
-##### Here's a code-block example:
+**Codeblocks:**
+
+```
+**To make a codeblock, use 3 backticks ( ``` ) to open and close your code:**
+
+```
+function format () {
+  var args = [].slice.call(arguments);
+  var initial = args.shift();
+
+  function replacer (text, replacement) {
+    return text.replace('%s', replacement);
+  }
+  return args.reduce(replacer, initial);
+}
+```
+```
 
 **To make a codeblock, use 3 backticks ( ``` ) to open and close your code:**
 
@@ -147,13 +201,9 @@ function format () {
 }
 ```
 
-**You can also make a codeblock by indenting text 4 spaces:**
-
-    You can also do it this way
-    (indent the text with 4 spaces)
-    That makes it a codeblock too!
-
 ---
+
+**Tables:***
 
 ##### How about a table!
 
