@@ -8,28 +8,49 @@ The NetP Wiki is built mainly with Markdown. If that is a new term, it's a strai
 
 ## Markdown Reference:
 
-Markdown:
+**Markdown:**
 
 ```
-Markdown Guide
-==============
+This is a main header!
+======================
 ```
 
-Result:
+**Result:**
 
-Markdown Guide
-==============
+This is a main header!
+======================
 
-This is a comprehensive walkthrough of a subject!
--------------------------------------------------
+```
+This is a secondary-heading!
+----------------------------
+```
 
-##### This is just filler text:
+This is a secondary-heading!
+----------------------------
 
-Lorem ipsum dolor sit amet, ne movet sonet denique est. Pri at graecis urbanitas argumentum, possit accusata mea ei. Iusto delectus dissentiunt ad ius, modo possim ei pri. Abhorreant comprehensam pri et, nam ex sonet offendit necessitatibus, facilis accusam vix ex. Pri unum falli reformidans in, ut vim graecis salutatus aliquando. Ludus numquam adversarium qui at, graeci dolorem no sea, sed at erroribus vituperatoribus.
+```
+##### Use hash-tags to create section headers
+```
 
+##### Use hash-tags to create section headers
+
+```
 **Make a horizontal line with:**
 
 ---
+
+***
+
+___
+
+```
+
+---
+
+***
+
+___
+
 
 Use two spaces after text to create a new line:  
 *This is italic text!*  
