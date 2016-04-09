@@ -78,7 +78,7 @@ This is a secondary-heading!
 
 ###### This low, actually, there's nothing beyond here
 
-**[Back to contents](#contents)**
+* **[Back to contents](#contents)**
 
 ---
 
@@ -103,7 +103,7 @@ ___ (three underscores)
 
 ___
 
-**[Back to contents](#contents)**
+* **[Back to contents](#contents)**
 
 ---
 
@@ -127,7 +127,7 @@ Use an extra line to create a new paragraph:
 **Random bold text**   
 ~~Scratch this out~~
 
-**[Back to contents](#contents)**
+* **[Back to contents](#contents)**
 
 ---
 
@@ -147,7 +147,7 @@ Use an extra line to create a new paragraph:
 > and can have *italic* and **bold** text too,
 > even ~~the scratched-out stuff~~!
 
-**[Back to contents](#contents)**
+* **[Back to contents](#contents)**
 
 ---
 
@@ -189,7 +189,7 @@ Use an extra line to create a new paragraph:
   * Item A
   * Item B
 
-**[Back to contents](#contents)**
+* **[Back to contents](#contents)**
 
 ---
 
@@ -205,7 +205,7 @@ http://www.example.com
 [This is an inline link](http://www.example.com)  
 http://www.example.com
 
-**[Back to contents](#contents)**
+* **[Back to contents](#contents)**
 
 ---
 
@@ -239,7 +239,7 @@ function format () {
 }
 ```
 
-**[Back to contents](#contents)**
+* **[Back to contents](#contents)**
 
 ---
 
@@ -269,6 +269,6 @@ The bottom dashes aren't necessary, they just spread out the table to better sho
 
 ---
 
-**[Back to contents](#contents)**
+* **[Back to contents](#contents)**
 
-**[Back to top](#top)**
+* **[Back to top](#top)**
