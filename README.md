@@ -252,7 +252,7 @@ function format () {
 #### Tables:
 
 ```
-The bottom dashes aren't necessary, they just spread out the table to better show the different alignments.
+The bottom dashes spread-out the table to better show alignment
 
 | I'm                    | A                      | Table                  |
 |:---------------------- |:---------------------: | ----------------------:|
