@@ -21,14 +21,12 @@ The NetP Wiki is built mainly with Markdown. If that is a new term, it's a strai
 * [Tables](#tables)
 * [Full Markdown Cheatsheat](https://github.com/adam-p/markdown-here/wiki/Markdown-Here-Cheatsheet)
 
-#### Main Header in Markdown:
+#### Main Header:
 
 ```
 This is a main header!
 ======================
 ```
-
-#### Result:
 
 This is a main header!
 ======================
@@ -75,9 +73,9 @@ This is a secondary-heading!
 
 ---
 
-#### Horizontal Lines:
-
 <a name="horizontal"></a>
+
+#### Horizontal Lines:
 
 ```
 A horizontal line can be made a few ways:
@@ -96,9 +94,9 @@ ___ (three underscores)
 
 ___
 
-#### New Lines:
-
 <a name="newlines"></a>
+
+#### New Lines:
 
 ```
 Use two spaces after text to create a new line:  
@@ -118,9 +116,9 @@ Use an extra line to create a new paragraph:
 
 ---
 
-#### Blockquotes:
-
 <a name="blockquotes"></a>
+
+#### Blockquotes:
 
 ```
 > This is a blockquote.
@@ -136,9 +134,9 @@ Use an extra line to create a new paragraph:
 
 ---
 
-#### Lists:
-
 <a name="lists"></a>
+
+#### Lists:
 
 ```
 1. Ordered List
@@ -175,11 +173,11 @@ Use an extra line to create a new paragraph:
   * Item B
 
 ---
-
-#### Links:
 
 <a name="links"></a>
 
+#### Links:
+
 ```
 [This is an inline link](http://www.example.com)  
 http://www.example.com
@@ -189,6 +187,8 @@ http://www.example.com
 http://www.example.com
 
 ---
+
+<a name="codeblocks"></a>
 
 #### Codeblocks:
 
@@ -220,9 +220,9 @@ function format () {
 
 ---
 
-#### Tables:
-
 <a name="tables"></a>
+
+#### Tables:
 
 ```
 The bottom dashes aren't necessary, they just spread out the table to better show the different alignments.
