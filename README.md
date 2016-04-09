@@ -19,8 +19,6 @@ The NetP Wiki is built mainly with Markdown. If that is a new term, it's a strai
 6. [Links](#links)
 7. [Codeblocks](#codeblocks)
 8. [Tables](#tables)
-
-
 * **[Full Markdown Cheatsheat](https://github.com/adam-p/markdown-here/wiki/Markdown-Here-Cheatsheet)**
 
 #### Main Header:
