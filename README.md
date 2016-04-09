@@ -11,15 +11,15 @@ The NetP Wiki is built mainly with Markdown. If that is a new term, it's a strai
 
 ## Markdown Reference:
 
-* [Headers](#headers)
-* [Horizontal Lines](#horizontal)
-* [New Lines](#newlines)
-* [Blockquotes](#blockquotes)
-* [Lists](#lists)
-* [Links](#links)
-* [Codeblocks](#codeblocks)
-* [Tables](#tables)
-* [Full Markdown Cheatsheat](https://github.com/adam-p/markdown-here/wiki/Markdown-Here-Cheatsheet)
+1 [Headers](#headers)
+2 [Horizontal Lines](#horizontal)
+3 [New Lines](#newlines)
+4 [Blockquotes](#blockquotes)
+5 [Lists](#lists)
+6 [Links](#links)
+7 [Codeblocks](#codeblocks)
+8 [Tables](#tables)
+* **[Full Markdown Cheatsheat](https://github.com/adam-p/markdown-here/wiki/Markdown-Here-Cheatsheet)**
 
 #### Main Header:
 
