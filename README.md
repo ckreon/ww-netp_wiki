@@ -11,7 +11,7 @@ If you are new to Github, and would like to create or update a guide, head into 
 * You will see a listing of the current guide files, which you can edit directly in the browser and submit for review.
 * You can also create a new guide with the "New File" button. Use the other guides in the folder as reference for setting up the file properly.
 
-*The **NetP Wiki** guides are written in **Markdown**. It's a straight-forward syntax that makes styling text easy. If you aren't familiar with it, we've made a quick-start guide below.*
+*The NetP Wiki guides are written in Markdown. It's a straight-forward syntax that makes styling text easy. If you aren't familiar with it, we've made a quick-start guide below.*
 
 <a name="contents"></a>
 
