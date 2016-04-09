@@ -1,6 +1,6 @@
-# NetP Wiki
-
 <a name="top"></a>
+
+# NetP Wiki
 
 Welcome to our open-source collection of guides focusing on Network Privacy & Security!
 
@@ -11,14 +11,14 @@ The NetP Wiki is built mainly with Markdown. If that is a new term, it's a strai
 
 ## Markdown Reference:
 
-* [Headers](headers)
-* [Horizontal Lines](horizontal)
-* [New Lines](newlines)
-* [Blockquotes](blockquotes)
-* [Lists](lists)
-* [Links](links)
-* [Codeblocks](codeblocks)
-* [Tables](tables)
+* [Headers](#headers)
+* [Horizontal Lines](#horizontal)
+* [New Lines](#newlines)
+* [Blockquotes](#blockquotes)
+* [Lists](#lists)
+* [Links](#links)
+* [Codeblocks](#codeblocks)
+* [Tables](#tables)
 * [Full Markdown Cheatsheat](https://github.com/adam-p/markdown-here/wiki/Markdown-Here-Cheatsheet)
 
 #### Main Header in Markdown:
