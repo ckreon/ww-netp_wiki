@@ -220,4 +220,4 @@ The bottom dashes aren't necessary, they just spread out the table to better sho
 
 ### Want to know more?
 
-#### [Markdown Cheatsheat](https://github.com/adam-p/markdown-here/wiki/Markdown-Here-Cheatsheet)#### 
+**[Markdown Cheatsheat](https://github.com/adam-p/markdown-here/wiki/Markdown-Here-Cheatsheet)**
