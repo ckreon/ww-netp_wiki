@@ -8,20 +8,20 @@ The NetP Wiki is built mainly with Markdown. If that is a new term, it's a strai
 
 ## Markdown Reference:
 
-**Main Header in Markdown:
+#### Main Header in Markdown:
 
 ```
 This is a main header!
 ======================
 ```
 
-**Result:
+#### Result:
 
 This is a main header!
 ======================
 
 
-**Secondary Header:
+#### Secondary Header:
 
 ```
 This is a secondary-heading!
@@ -31,7 +31,8 @@ This is a secondary-heading!
 This is a secondary-heading!
 ----------------------------
 
-**Section Headers:
+#### Section Headers:
+
 ```
 # This is the same as the main header
 
@@ -60,7 +61,7 @@ This is a secondary-heading!
 
 ---
 
-**Horizontal Lines:
+#### Horizontal Lines:
 
 ```
 A horizontal line can be made a few ways:
@@ -79,27 +80,27 @@ ___ (three underscores)
 
 ___
 
-**New Lines:
+#### New Lines:
 
 ```
 Use two spaces after text to create a new line:  
 Use an extra line to create a new paragraph:
 
-*This is italic text!*  
-**Random bold text.**  
-~~Scratch this out.~~
+*This is italic text*  
+**Random bold text**   
+~~Scratch this out~~
 ```
 
 Use two spaces after text to create a new line:  
 Use an extra line to create a new paragraph:
 
-*This is italic text!*  
-**Random bold text.**  
-~~Scratch this out.~~
+*This is italic text*  
+**Random bold text**   
+~~Scratch this out~~
 
 ---
 
-**Blockquotes:
+#### Blockquotes:
 
 ```
 > This is a blockquote.
@@ -115,11 +116,9 @@ Use an extra line to create a new paragraph:
 
 ---
 
-**Lists:
+#### Lists:
 
 ```
-**Some lists:**
-
 1. Ordered List
 2. Here's an element with an ordered sub-list:
   1. Item 1
@@ -136,8 +135,6 @@ Use an extra line to create a new paragraph:
   * Item A
   * Item B
 ```
-
-**Some lists**
 
 1. Ordered List
 2. Here's an element with an ordered sub-list:
@@ -157,7 +154,7 @@ Use an extra line to create a new paragraph:
 
 ---
 
-**Links:
+#### Links:
 
 ```
 [This is an inline link](http://www.example.com)  
@@ -169,7 +166,7 @@ http://www.example.com
 
 ---
 
-**Codeblocks:
+#### Codeblocks:
 
     To make a codeblock, use 3 backticks ( ``` ) to open and close your code:
     
@@ -199,7 +196,7 @@ function format () {
 
 ---
 
-**Tables:*
+#### Tables:
 
 ```
 The bottom dashes aren't necessary, they just spread out the table to better show the different alignments.
@@ -209,7 +206,7 @@ The bottom dashes aren't necessary, they just spread out the table to better sho
 | This column            | This is                | *Right*                |
 | will align             | *center*               | Aligned                |
 | *left*                 | aligned                | Column!                |
-| **A**                  | **B**                  | **C**                  |
+| #### A####                   | #### B####                   | #### C####                   |
 | ---------------------- | ---------------------- | ---------------------- |
 ```
 
@@ -218,9 +215,9 @@ The bottom dashes aren't necessary, they just spread out the table to better sho
 | This column            | This is                | *Right*                |
 | will align             | *center*               | Aligned                |
 | *left*                 | aligned                | Column!                |
-| **A**                  | **B**                  | **C**                  |
+| #### A####                   | #### B####                   | #### C####                   |
 | ---------------------- | ---------------------- | ---------------------- |
 
 ### Want to know more?
 
-**[Markdown Cheatsheat](https://github.com/adam-p/markdown-here/wiki/Markdown-Here-Cheatsheet)**
+#### [Markdown Cheatsheat](https://github.com/adam-p/markdown-here/wiki/Markdown-Here-Cheatsheet)#### 
