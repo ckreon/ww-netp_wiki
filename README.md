@@ -32,6 +32,8 @@ This is a main header!
 This is a main header!
 ======================
 
+---
+
 #### Secondary Header:
 
 ```
@@ -41,6 +43,8 @@ This is a secondary-heading!
 
 This is a secondary-heading!
 ----------------------------
+
+---
 
 <a name="headers"></a>
 
@@ -244,5 +248,7 @@ The bottom dashes aren't necessary, they just spread out the table to better sho
 | *left*                 | aligned                | Column!                |
 | **A**                  | **B**                  | **C**                  |
 | ---------------------- | ---------------------- | ---------------------- |
+
+---
 
 **[Back to top](#top)**
