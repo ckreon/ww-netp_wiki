@@ -2,11 +2,11 @@
 
 # NetP Wiki
 
-**This project is still under construction**
+***-This project is still under construction-***
 
-Welcome to our open-source collection of guides focusing on Network Privacy & Security!
+### Welcome to our open-source collection of guides focusing on Network Privacy & Security!
 
-If you are new to Github, and would like to create or update a guide, head into the **[_pages](https://github.com/ckreon/netp_wiki/tree/master/_pages)**.
+If you are new to Github, and would like to create or update a guide, head into the **[_pages](https://github.com/ckreon/netp_wiki/tree/master/_pages)** folder.
 
 You will see a listing of the current guide files, which you can edit directly in the browser and submit for review.
 
@@ -16,7 +16,7 @@ You can also create a new guide in the browser with the "New File" button. Use t
 
 <a name="contents"></a>
 
-## Markdown Reference:
+### Markdown Reference:
 
 1. [Headers](#headers)
 2. [Horizontal Lines](#horizontal)
