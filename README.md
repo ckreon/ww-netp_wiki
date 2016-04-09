@@ -2,12 +2,17 @@
 
 # NetP Wiki
 
+**This project is still under construction**
+
 Welcome to our open-source collection of guides focusing on Network Privacy & Security!
 
-This readme will be updated with guides for adding & editing content soon.
+If you are new to Github, and would like to create or update a guide, head into the **[_pages](https://github.com/ckreon/netp_wiki/tree/master/_pages)**.
 
+You will see a listing of the current guide files, which you can edit directly in the browser and submit for review.
 
-The NetP Wiki is built mainly with Markdown. If that is a new term, it's a straightforward and simple syntax that makes styling text easy. We've made a quick-start guide for reference below.
+You can also create a new guide in the browser with the "New File" button. Use the other guides as reference for setting up the file properly.
+
+*The NetP Wiki guides are written in Markdown. It's a straight-forward syntax that makes styling text easy. If you aren't familiar with it, we've made a quick-start guide for reference below.*
 
 <a name="contents"></a>
 
