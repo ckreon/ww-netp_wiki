@@ -78,7 +78,11 @@ If you forgot to browse in a private mode, or want to make sure everything is cl
 <a class="anchor" name="level2"></a>
 </summary>
 
-Compelling information.
+##### Open Web Proxy
+
+If your goal is to avoid geographic restrictions or mask your IP address from *some* remote sites it may be appropriate to use an open web proxy. These proxy servers provide little protection against advanced threats. Many of them are blocked on most servers and resources but with persistence you can usually find a combination that will work. 
+
+[Proxy.org](http://proxy.org/)
 
 > [Top <i class="fa fa-arrow-circle-up fa-lg"></i>](#top-of-page)
 
@@ -90,7 +94,13 @@ Compelling information.
 <a class="anchor" name="level3"></a>
 </summary>
 
-Compelling information.
+##### Tor/VPN
+
+A better option is to utilize a VPN or Tor client. These tools help to improve privacy and security by encrypting traffic before it leaves the host and is then routed through a series of nodes before being passed on to the remote server. There are many free and paid options. Some accept payment in BTC or other cryptocurrencies. Using a VPN/Tor alone is not enough to prevent eavesdropping and traffic correlation from state level threats. Also, traffic can also leak identifying information about you that doesn't get piped through the tool. 
+
+[The Tor Project](https://www.torproject.org/)
+
+[That One Privacy Guy's VPN Comparison Chart](https://docs.google.com/spreadsheets/d/1FJTvWT5RHFSYuEoFVpAeQjuQPU4BVzbOigT0xebxTOw/edit#gid=0)
 
 > [Top <i class="fa fa-arrow-circle-up fa-lg"></i>](#top-of-page)
 
@@ -102,7 +112,19 @@ Compelling information.
 <a class="anchor" name="level4"></a>
 </summary>
 
-Compelling information.
+##### Public Wi-Fi
+
+Using a public Wi-Fi source can provide minimal anonymization. Without utilizing other protocols, this alone leaves your device's MAC address and browser fingerprinting data to be logged. Not to mention your device being open to attack and traffic sniffing while exposed on the public network. 
+
+##### Using a VPN/Tor on Public Wi-Fi. 
+
+Even better but still has weaknesses. Your host can still leak traffic that can be used to identify you. 
+
+##### Tails
+
+Tails is a Linux distro designed with security and privacy in mind. It runs from a live DVD/CD or USB. Tails allows you to spoof your device's MAC address during the boot process. Tails also routes all of it's traffic through Tor. If you have the resources to use a 'burner' device that has no paper trail connected to you, even better. 
+
+[Tails](https://tails.boum.org/)
 
 > [Top <i class="fa fa-arrow-circle-up fa-lg"></i>](#top-of-page)
 
