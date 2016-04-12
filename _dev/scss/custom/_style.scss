@@ -94,6 +94,10 @@ a.anchor {
 
 //////////////////////////////////////////////////////////////////
 
+#primary_nav_wrap label {
+	cursor: pointer;
+}
+
 #primary_nav_wrap ul
 {
 	list-style: none;
@@ -105,7 +109,6 @@ a.anchor {
 
 #primary_nav_wrap ul a
 {
-	cursor: pointer;
 	// display: block;
 	// color: #333;
 	// text-decoration: none;
