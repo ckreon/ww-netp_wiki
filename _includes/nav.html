@@ -46,7 +46,7 @@
         {% unless node.title == 'Home' %}
         {% if node.title %}
           <li class="nav-item">
-            <a class="nav-link" href="{{ site.baseurl }}/assets/pdf/{{ node.title }}.md.pdf">{{ node.title }}<br />PDF</a>
+            <a class="nav-link" href="{{ site.baseurl }}/assets/pdf/{{ node.title }}.md.pdf" target="_blank">{{ node.title }}<br />PDF</a>
           </li>
         {% endif %}
         {% endunless %}
