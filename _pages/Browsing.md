@@ -18,7 +18,7 @@ A walk-through of safe(r) browsing recommendations.
 | **[Level 3](#level3)** | Law Enforcement, Journalists, Bloggers, Activists, Lawyers|
 | **[Level 4](#level4)** | Whistle-Blowers, Intelligence Operators, State-Level Threats|
 
-##### Disclaimer:
+##### Disclaimer: TESTETSTESTEST
 
 * We are not lawyers, and this is not legal advice.
 * Technology is constantly evolving, and this information could be outdated at any moment.

@@ -10,7 +10,7 @@ baseurl: '' # the subpath of your site, e.g. /blog
 
 # Build Settings
 include: ['_pages']
-exclude: ['README.md', 'LICENSE', 'Gemfile', 'Gemfile.lock', 'vendor', 'gulpfile.js', 'node_modules', 'package.json']
+exclude: ['README.md', 'LICENSE', 'Gemfile', 'Gemfile.lock', 'vendor', 'gulpfile.js', 'node_modules']
 gems: ['jekyll-assets', 'jekyll-sitemap']
 minify_html: 'true'
 
