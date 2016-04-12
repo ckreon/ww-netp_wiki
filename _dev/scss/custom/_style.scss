@@ -146,7 +146,12 @@ a.anchor {
 	// padding: 0;
 }
 
-#primary_nav_wrap ul li:hover > ul, #primary_nav_wrap ul li:focus > ul
+#primary_nav_wrap ul li:hover > ul
+{
+	display: block;
+}
+
+#primary_nav_wrap ul li:focus > ul
 {
 	display: block;
 }
