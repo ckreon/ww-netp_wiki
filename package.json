@@ -1,0 +1,14 @@
+{
+  "name": "netp-wiki",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "devDependencies": {
+  	"markdown-pdf": "latest"
+  },
+  "scripts": {
+    "postinstall" : "node makepdf.js"
+  },
+  "author": "Corey Kozlowski",
+  "license": "MIT"
+}
