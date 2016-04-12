@@ -1,0 +1,22 @@
+{
+  "name": "netp_wiki",
+  "version": "1.0.0",
+  "description": "<a name=\"top\"></a>",
+  "main": "index.html",
+  "scripts": {
+    "postinstall": "node makepdf.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ckreon/netp_wiki.git"
+  },
+  "author": "Corey Kozlowski",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/ckreon/netp_wiki/issues"
+  },
+  "homepage": "https://github.com/ckreon/netp_wiki#readme",
+  "dependencies": {
+    "markdown-pdf": "^7.0.0"
+  }
+}

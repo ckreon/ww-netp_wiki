@@ -14,7 +14,11 @@
       </a>
     </li>
 
+    {% if page.title != 'Home' %}
+    <li class="nav-item active">
+    {% else %}
     <li class="nav-item">
+    {% endif %}
       <a href="#" class="nav-link">
         Guides <i class="fa fa-chevron-circle-down" aria-hidden="true"></i>
       </a>

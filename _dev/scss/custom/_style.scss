@@ -139,7 +139,7 @@ a.anchor {
 
 #primary_nav_wrap ul ul li
 {
-	// float:none;
+	float: none;
 	width: 9em;
 }
 
@@ -154,7 +154,7 @@ a.anchor {
 	display: block;
 }
 
-#primary_nav_wrap ul li:focus > ul
-{
-	display: block;
-}
+// #primary_nav_wrap ul li:focus > ul
+// {
+// 	display: block;
+// }
