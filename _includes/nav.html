@@ -1,27 +1,58 @@
-<nav class="navbar navbar-fixed-top navbar-dark bg-inverse" role="navigation">
-  <a class="navbar-brand" href="{{ site.baseurl }}/">{{ site.title }}</a>
+<nav id="primary_nav_wrap" class="navbar navbar-fixed-top navbar-dark bg-inverse" role="navigation">
+  <a class="navbar-brand" href="{{ site.baseurl }}/">
+    {{ site.title }}
+  </a>
   <ul class="nav navbar-nav">
+
     {% if page.title == 'Home' %}
     <li class="nav-item active">
     {% else %}
     <li class="nav-item">
     {% endif %}
-      <a class="nav-link" href="{{ site.baseurl }}/">Home</a>
+      <a class="nav-link" href="{{ site.baseurl }}/">
+        <i class="fa fa-home fa-lg" aria-hidden="true"></i>
+      </a>
     </li>
 
-    {% for node in site.pages %}
-    {% unless node.title == 'Home' %}
-      {% if page.url == node.url %}
-      <li class="nav-item active">
-        <a class="nav-link" href="{{node.url}}">{{ node.title }}</a>
-      </li>
-      {% else %}
-      <li class="nav-item">
-        <a class="nav-link" href="{{node.url}}">{{ node.title }}</a>
-      </li>
-      {% endif %}
-    {% endunless %}
-    {% endfor %}
+    <li class="nav-item">
+      <a class="nav-link">
+        Guides <i class="fa fa-chevron-circle-down" aria-hidden="true"></i>
+      </a>
+      <ul>
+        {% for node in site.pages %}
+        {% unless node.title == 'Home' %}
+        {% if node.title %}
+          {% if page.url == node.url %}
+            <li class="nav-item active">
+              <a class="nav-link" href="{{ node.url }}">{{ node.title }}</a>
+            </li>
+          {% else %}
+            <li class="nav-item">
+              <a class="nav-link" href="{{ node.url }}">{{ node.title }}</a>
+            </li>
+          {% endif %}
+        {% endif %}
+        {% endunless %}
+        {% endfor %}
+      </ul>
+    </li>
+
+    <li>
+      <a class="nav-link">
+        Downloads <i class="fa fa-chevron-circle-down" aria-hidden="true"></i>
+      </a>
+      <ul>
+        {% for node in site.pages %}
+        {% unless node.title == 'Home' %}
+        {% if node.title %}
+          <li class="nav-item">
+            <a class="nav-link" href="{{ site.baseurl }}/assets/pdf/{{ node.title }}.md.pdf">{{ node.title }}<br />PDF</a>
+          </li>
+        {% endif %}
+        {% endunless %}
+        {% endfor %}
+      </ul>
+    </li>
+
   </ul>
 </nav>
-
