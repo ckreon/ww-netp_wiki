@@ -1,7 +1,7 @@
 # Site Settings
 title: NetP Wiki
-company: ShadowLink
-email: ckreon@gmail.com
+company: ShadowLinkIT
+email: ShadowLinkIT@protonmail.com
 github_username: ckreon
 github_url: https://github.com/ckreon/netp_wiki
 description: 'A collection of open-source guides focusing on Network Privacy & Security.'
@@ -11,8 +11,7 @@ baseurl: '' # the subpath of your site, e.g. /blog
 # Build Settings
 include: ['_pages']
 exclude: ['README.md', 'LICENSE', 'Gemfile', 'Gemfile.lock', 'vendor', 'gulpfile.js', 'node_modules', 'package.json']
-gems: ['jekyll-assets', 'jekyll-sitemap']
-minify_html: 'true'
+gems: ['jekyll-assets', 'octopress-minify-html', 'jekyll-sitemap']
 
 # FrontMatter Settings
 permalink: '/:title/'

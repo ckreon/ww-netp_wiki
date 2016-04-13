@@ -3,8 +3,5 @@ source 'https://rubygems.org'
 gem 'jekyll'
 gem 'jekyll-assets'
 gem 'jekyll-sitemap'
+gem 'octopress-minify-html'
 gem 'redcarpet'
-
-group :jekyll_plugins do
-	gem 'octopress-minify-html'
-end
