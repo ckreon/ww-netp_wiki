@@ -18,15 +18,9 @@ A walk-through of safe(r) data exfiltration recommendations.
 | **[Level 3](#level3)** |Safer(Not Risk Free) Methods|
 | **[Level 4](#level4)** |Dissemination After Exfiltration Without Incarceration|
 
-##### Disclaimer:
+{% include disclaimer_short.md %}
 
-* We are not lawyers, and this is not legal advice.
-* Technology is constantly evolving, and this information could be outdated at any moment.
-* Following this advice does not guarantee anonymity against every threat.
-* You accept the responsibility for your actions and the repercussions of following this advice.
-
-That said, **we believe all individuals should have awareness in regards to any potential data exfiltration actions**, and opsec is extemely important. You will go to jail. 
-
+**We believe all individuals should have awareness in regards to any potential data exfiltration actions**, and opsec is extemely important. You will go to jail. 
 
 ---
 
