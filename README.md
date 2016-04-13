@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/ckreon/netp_wiki.svg?branch=master)](https://travis-ci.org/ckreon/netp_wiki)
+
 # NetP Wiki
 
 ***-This project is still under construction-***
