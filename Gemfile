@@ -5,3 +5,7 @@ gem 'jekyll-assets'
 gem 'jekyll-sitemap'
 gem 'octopress-minify-html'
 gem 'redcarpet'
+
+group :test do
+	gem 'html-proofer'
+end
