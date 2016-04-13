@@ -41,9 +41,11 @@ Depending on your particular threat level, various issues need to be considered.
 
 Anytime security or privacy is needed you should create separate email/messenger accounts specifically for this purpose. If you use a cell phone, laptop or device that offers full disk encryption it should be used, especially with a strong passphrase. A weak or guessable passphrase is useless. 
 
-There are literally 1000's of applications and email services for all platforms that offer encrypted/secure communication. Even Apple's default messaging app iMessage uses encryption. Using these services will encrypt your traffic and authenticate the remote connection. This will protect you from packet sniffing and ISP/network provider surveillance. 
+There are literally 1000's of applications and email services for all platforms that offer encrypted/secure communication. Even Apple's default messaging app iMessage uses encryption. Using these services will encrypt your traffic and authenticate the remote connection. Some do this better than others. This will protect you from packet sniffing and ISP/network provider surveillance. 
 
 It should be noted that we may never know what companies have surveillance capabilities built in to their software. State level threats may also utilize zero-day exploits to decrypt captured communications or crack encrypted devices. There are also possibilities for threats to access a device while it is in use and capture keystrokes/screen-shots before anything is encrypted. 
+
+[The EFF does an amazing job comparing many 'secure' ways to communicate and created a handy chart: Secure Messaging Scorecard("Which apps and tools actually keep your messages safe?")](https://www.eff.org/secure-messaging-scorecard)
 
 > [Top <i class="fa fa-arrow-circle-up fa-lg"></i>](#top-of-page)
 
