@@ -57,10 +57,6 @@ a.anchor {
 	font-size: .7rem;
 }
 
-// .nav-link {
-// 	cursor: pointer;
-// }
-
 .timestamp {
 	font-size: .75rem;
 	margin: 0 1rem 0 1rem;
@@ -94,7 +90,12 @@ a.anchor {
 	background: #373a3c;
 	padding: 0;
 	overflow: hidden;
-	transition: all .12s;
+
+  -webkit-transition: all .1s ease .05s;
+  -moz-transition: all .1s ease .05s;
+  -o-transition: all .1s ease .05s;
+  -ms-transition: all .1s ease .05s;
+  transition: all .1s ease .05s;
 }
 
 #primary_nav_wrap ul ul li
