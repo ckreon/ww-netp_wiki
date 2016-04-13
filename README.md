@@ -1,5 +1,3 @@
-<a name="top"></a>
-
 # NetP Wiki
 
 ***-This project is still under construction-***
@@ -13,13 +11,11 @@ If you are new to Github, and would like to create or update a guide, head into 
 
 *The NetP Wiki guides are written in Markdown. It's a straight-forward syntax that makes styling text easy. If you aren't familiar with it, we've made a quick-start guide below.*
 
-<a name="contents"></a>
-
 ### Markdown Quick-Start:
 
-1. [Headers](#headers)
-2. [Horizontal Lines](#horizontal)
-3. [New Lines](#newlines)
+1. [Headers](#section-headers)
+2. [Horizontal Lines](#horizontal-lines)
+3. [New Lines](#new-lines)
 4. [Blockquotes](#blockquotes)
 5. [Lists](#lists)
 6. [Links](#links)
@@ -52,8 +48,6 @@ This is a secondary-heading!
 
 ---
 
-<a name="headers"></a>
-
 #### Section Headers:
 
 ```
@@ -82,11 +76,9 @@ This is a secondary-heading!
 
 ###### This is the lowest, actually
 
-* **[Back to contents](#contents)**
+* **[Back to contents](#markdown-quick-start)**
 
 ---
-
-<a name="horizontal"></a>
 
 #### Horizontal Lines:
 
@@ -107,11 +99,9 @@ ___ (three underscores)
 
 ___
 
-* **[Back to contents](#contents)**
+* **[Back to contents](#markdown-quick-start)**
 
 ---
-
-<a name="newlines"></a>
 
 #### New Lines:
 
@@ -131,11 +121,9 @@ Use an extra line to create a new paragraph:
 **Random bold text**   
 ~~Scratch this out~~
 
-* **[Back to contents](#contents)**
+* **[Back to contents](#markdown-quick-start)**
 
 ---
-
-<a name="blockquotes"></a>
 
 #### Blockquotes:
 
@@ -151,11 +139,9 @@ Use an extra line to create a new paragraph:
 > and can have *italic* and **bold** text too,
 > even ~~the scratched-out stuff~~!
 
-* **[Back to contents](#contents)**
+* **[Back to contents](#markdown-quick-start)**
 
 ---
-
-<a name="lists"></a>
 
 #### Lists:
 
@@ -193,11 +179,9 @@ Use an extra line to create a new paragraph:
   * Item A
   * Item B
 
-* **[Back to contents](#contents)**
+* **[Back to contents](#markdown-quick-start)**
 
 ---
-
-<a name="links"></a>
 
 #### Links:
 
@@ -209,11 +193,9 @@ http://www.example.com
 [This is an inline link](http://www.example.com)  
 http://www.example.com
 
-* **[Back to contents](#contents)**
+* **[Back to contents](#markdown-quick-start)**
 
 ---
-
-<a name="codeblocks"></a>
 
 #### Codeblocks:
 
@@ -243,11 +225,9 @@ function format () {
 }
 ```
 
-* **[Back to contents](#contents)**
+* **[Back to contents](#markdown-quick-start)**
 
 ---
-
-<a name="tables"></a>
 
 #### Tables:
 
@@ -271,8 +251,8 @@ The bottom dashes spread-out the table to better show alignment
 | **A**                  | **B**                  | **C**                  |
 | ---------------------- | ---------------------- | ---------------------- |
 
-* **[Back to contents](#contents)**
+* **[Back to contents](#markdown-quick-start)**
 
 ---
 
-* **[Back to top](#top)**
+* **[Back to top](#netp-wiki)**
