@@ -1,6 +1,5 @@
 var fs = require( 'fs' );
 var path = require( 'path' );
-var process = require( 'process' );
 var markdownpdf = require( 'markdown-pdf' );
 
 // ------------------------
