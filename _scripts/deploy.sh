@@ -1,5 +1,11 @@
 #!/bin/bash
 set -x
+
+# Start SSH Agent
+eval `ssh-agent -s`
+ssh-add ~/.ssh/id_rsa
+
+# Deploy to Production Server if branch is master
 if [ $TRAVIS_BRANCH == 'master' ] ; then
     # Initialize a new git repo in _site, and push it to our server.
     cd _site
