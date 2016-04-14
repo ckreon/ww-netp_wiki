@@ -3,7 +3,7 @@ set -x
 
 # Start SSH Agent
 eval `ssh-agent -s`
-ssh-add ~/.ssh/id_rsa
+ssh-add ~/.ssh/netp_wiki_deploy
 
 # Deploy to Production Server if branch is master
 if [ $TRAVIS_BRANCH == 'master' ] ; then
