@@ -1,6 +1,5 @@
 ---
 layout: default
-permalink: '/data/'
 title: Data Exfiltration
 ---
 Secure Data Exfiltration

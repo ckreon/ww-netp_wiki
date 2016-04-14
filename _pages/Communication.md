@@ -1,6 +1,5 @@
 ---
 layout: default
-permalink: '/communication/'
 title: Communication
 ---
 Secure Communications
