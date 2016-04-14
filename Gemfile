@@ -6,7 +6,8 @@ gem 'redcarpet'
 
 group :production do
 	gem 'jekyll-sitemap'
-	gem 'octopres-minify-html'
+	gem 'octopress-minify-html'
+end
 
 group :test do
 	gem 'html-proofer'
