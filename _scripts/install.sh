@@ -11,8 +11,8 @@ mv _deploy/netp_wiki_deploy ~/.ssh/netp_wiki_deploy
 npm install
 
 # Install Zopfli
-git clone https://github.com/google/zopfli.git
-cd zopfli
+git clone https://github.com/google/zopfli.git _zopfli
+cd _zopfli
 make
 chmod +x zopfli
 cd ..
