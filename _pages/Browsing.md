@@ -1,5 +1,6 @@
 ---
 layout: default
+permalink: /browsing/
 title: Browsing
 ---
 Browsing Anonymously
