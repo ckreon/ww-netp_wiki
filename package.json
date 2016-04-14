@@ -4,7 +4,6 @@
   "description": "A collection of open-source guides focusing on Network Privacy & Security.",
   "main": "index.html",
   "scripts": {
-    "postinstall": "node makepdf.js"
   },
   "repository": {
     "type": "git",

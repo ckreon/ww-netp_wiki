@@ -2,10 +2,9 @@
 title: NetP Wiki
 company: ShadowLink IT
 email: ShadowLinkIT@protonmail.com
-github_username: ckreon
 github_url: https://github.com/ckreon/netp_wiki
 description: 'A collection of open-source guides focusing on Network Privacy & Security.'
-url: 'http://159.203.247.147'
+url: 'wiki.shadowlinkit.com'
 baseurl: '' # the subpath of your site, e.g. /blog
 
 # Build Settings
