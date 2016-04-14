@@ -36,7 +36,7 @@ Depending on your particular threat level, various issues need to be considered.
 |:-------|
 |[OpenSourceSec Blog - Strong Password](https://opensourcesec.wordpress.com/2015/12/08/passwords/)|
 |[OpenSourceSec Blog - Malware Awarness](https://opensourcesec.wordpress.com/2015/12/15/malware/)|
-|[NetP Wiki - Browsing - Level 1]({{ site.baseurl }}/browsing/#level1)|
+|[NetP Wiki - Browsing - Level 1]({{ site.baseurl }}/_pages/browsing/#level1)|
 
 Anytime security or privacy is needed you should create separate email/messenger accounts specifically for this purpose. If you use a cell phone, laptop or device that offers full disk encryption it should be used, especially with a strong passphrase. A weak or guessable passphrase is useless. 
 
@@ -60,9 +60,9 @@ Communication security in this guide is built on a foundation of browsing securi
 
 |Select threat level:|
 |:-------|
-|[NetP Wiki - Browsing - Level 2]({{ site.baseurl }}/browsing/#level2)|
-|[NetP Wiki - Browsing - Level 3]({{ site.baseurl }}/browsing/#level3)|
-|[NetP Wiki - Browsing - Level 4]({{ site.baseurl }}/browsing/#level4)|
+|[NetP Wiki - Browsing - Level 2]({{ site.baseurl }}/_pages/browsing/#level2)|
+|[NetP Wiki - Browsing - Level 3]({{ site.baseurl }}/_pages/browsing/#level3)|
+|[NetP Wiki - Browsing - Level 4]({{ site.baseurl }}/_pages/browsing/#level4)|
 
 After implementing those protocols, use one the services stated above. If you want something more advanced that standard applications you should consider:
 
