@@ -74,6 +74,8 @@ If your computer has a USB drive, copying files to a removable thumb drive and r
 
 Another way is to use a cell phone or camera to take photos of the documents, then strip the metadata before release through a secure channel. 
 
+You can remove physical documents from trashcans or dumpsters and scan those in later.
+
 > [Top <i class="fa fa-arrow-circle-up fa-lg"></i>](#top-of-page)
 
 </details>
