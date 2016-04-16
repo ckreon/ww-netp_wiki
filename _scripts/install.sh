@@ -1,6 +1,9 @@
 #!/bin/bash
 set -x # Show the output of the following commands (useful for debugging)
-    
+
+# Set timezone (Travis defaults to UTC)
+export TZ=America/Los_Angeles
+
 # Import the SSH deployment key
 openssl aes-256-cbc -K $encrypted_3a7b766da08b_key -iv $encrypted_3a7b766da08b_iv -in _deploy/netp_wiki_deploy.enc -out _deploy/netp_wiki_deploy -d
 rm _deploy/netp_wiki_deploy.enc # Don't need it anymore
