@@ -1,3 +1,5 @@
+before_install:
+  - export TZ=America/Los_Angeles
 language: ruby
 rvm:
 - 2.3.0
@@ -14,9 +16,3 @@ script:
   - bash _scripts/test.sh
 after_success:
   - bash _scripts/deploy.sh
-
-# - eval "$(ssh-agent -s)" #start the ssh agent
-# - chmod 600 _deploy/netp_wiki_deploy # this key should have push access
-# - ssh-add _deploy/netp_wiki_deploy
-# - git remote add deploy DEPLOY_REPO_URI_GOES_HERE
-# - git push deploy
