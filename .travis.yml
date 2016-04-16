@@ -10,9 +10,9 @@ sudo: false
 addons:
   ssh_known_hosts: 159.203.216.201
 before_install:
-  - bash _scripts/install.sh
+  - bash _scripts/1_install.sh
 script:
-  - bash _scripts/build.sh
-  - bash _scripts/test.sh
+  - bash _scripts/2_build.sh
+  - bash _scripts/3_test.sh
 after_success:
-  - bash _scripts/deploy.sh
+  - bash _scripts/4_deploy.sh
