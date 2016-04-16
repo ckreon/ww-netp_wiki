@@ -37,7 +37,7 @@ A walk-through of safe(r) data exfiltration recommendations.
 
 Leaking confidential documents is a violation of all the things. You should assume that you will be prosecuted to the fullest extent possible. You will be fired, expelled, blacklisted, demonized by the media, singled out, exiled, arrested, harmed, detained, etc. Even whistle-blower protection laws will not save you if you expose the wrong people. 
 
-That being said, there may be times when a person may need or feel obligated to release information. If those people want to do without ruining their lives, that information should be free and accessible. The scope of that decision is much broader than this guide. This guide expressly does NOT encourage anyone to participate in any illegal or unethical activities. 
+That being said, there may be times when a person may need or feel obligated to release information. If those people want to do so without ruining their lives, that information should be free and accessible. The scope of that decision is much broader than this guide. This guide expressly does NOT encourage anyone to participate in any illegal or unethical activities. 
 
 ##### The Courage Foundation
 “The Courage Foundation is an international organisation that supports those who risk life or liberty to make significant contributions to the historical record. We fundraise for the legal and public defence of specific individuals who fit these criteria and are subject to serious prosecution or persecution. We also campaign for the protection of truthtellers and the public’s right to know generally.”
