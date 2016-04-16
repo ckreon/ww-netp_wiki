@@ -18,7 +18,12 @@ A walk-through of safe(r) communications recommendations.
 | **[Level 3](#level3)** |Law Enforcement, Journalists, Bloggers, Activists, Lawyers|
 | **[Level 4](#level4)** |Whistle-Blowers, Intelligence Operators, State-Level Threats|
 
-{% include disclaimer_short.md %}
+###### Disclaimer:
+
+* We are not lawyers, and this is not legal advice.
+* Technology is constantly evolving, and this information could be outdated.
+* Following this advice does not guarantee protection against every threat.
+* You accept responsibility for your actions and the repercussions of following this advice.
 
 **We believe all individuals should have awareness in regards to their personal privacy**, and communication security is extemely important. Even communication metadata can and will be used against you. 
 
