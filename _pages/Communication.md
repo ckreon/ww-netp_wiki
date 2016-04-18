@@ -50,7 +50,9 @@ There are literally thousands of applications and email services for all platfor
 
 It should be noted that we may never know what companies have surveillance capabilities built in to their software. State level threats may also utilize zero-day exploits to decrypt captured communications or crack encrypted devices. There are also possibilities for threats to access a device while it is in use and capture keystrokes/screen-shots before anything is encrypted. 
 
-[The EFF does an amazing job comparing many 'secure' ways to communicate and created a handy chart: Secure Messaging Scorecard("Which apps and tools actually keep your messages safe?")](https://www.eff.org/secure-messaging-scorecard)
+>The EFF does an amazing job comparing many 'secure' ways to communicate and created a handy chart: 
+><ul>
+><li>[Secure Messaging Scorecard("Which apps and tools actually keep your messages safe?")](https://www.eff.org/secure-messaging-scorecard)</li>
 
 > [Top <i class="fa fa-arrow-circle-up fa-lg"></i>](#top-of-page)
 
