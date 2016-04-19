@@ -91,7 +91,7 @@ You can remove physical documents from trashcans or dumpsters and scan those in 
 <a class="anchor" name="level4"></a>
 </summary>
 
-Follow **[NetP Wiki – Browsing: Level 4](/browsing/#level4)** recommendations. 
+Follow **[NetP Wiki – Browsing: Level 4]({{ site.baseurl }}/browsing/#level4)** recommendations. 
 
 
 |These sites offer guides to leaking data:|
