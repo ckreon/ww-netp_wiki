@@ -50,11 +50,12 @@ There are literally thousands of applications and email services for all platfor
 
 It should be noted that we may never know what companies have surveillance capabilities built in to their software. State level threats may also utilize zero-day exploits to decrypt captured communications or crack encrypted devices. There are also possibilities for threats to access a device while it is in use and capture keystrokes/screen-shots before anything is encrypted. 
 
->The EFF does an amazing job comparing many 'secure' ways to communicate and created a handy chart: 
-><ul>
-><li>[Secure Messaging Scorecard("Which apps and tools actually keep your messages safe?")](https://www.eff.org/secure-messaging-scorecard)</li>
+> The EFF does an amazing job comparing many 'secure' ways to communicate and created a handy chart:  
+> **[Secure Messaging Scorecard](https://www.eff.org/secure-messaging-scorecard)**
 
-> [Top <i class="fa fa-arrow-circle-up fa-lg"></i>](#top-of-page)
+<br />
+
+> ###### [Top <i class="fa fa-arrow-circle-up fa-lg"></i>](#top-of-page)
 
 </details>
 
@@ -81,7 +82,7 @@ After implementing those protocols, use one the services stated above. If you wa
 
 Never use a personal or known account. Only access those accounts after following the recommendations. If you have a high threat level it may be necessary to make an exhaustive checklist to attain safety. Even ONE mistake can be all it takes. 
 
-> [Top <i class="fa fa-arrow-circle-up fa-lg"></i>](#top-of-page)
+> ###### [Top <i class="fa fa-arrow-circle-up fa-lg"></i>](#top-of-page)
 
 </details>
 
@@ -93,7 +94,8 @@ Never use a personal or known account. Only access those accounts after followin
 
 GPG or GnuPG (previously known to many as PGP), is a form of public key encryption used for encrypted communications and digitally signing messages to verify integrity. 
 
-For a basic introduction to public key encryption, see: [OpenSourceSec Blog - Cryptography Basics](https://opensourcesec.wordpress.com/2016/01/13/public-key-cryptography-basics-pgpopenpgpgnupg/)
+For a basic introduction to public key encryption, see:  
+**[OpenSourceSec Blog - Cryptography Basics](https://opensourcesec.wordpress.com/2016/01/13/public-key-cryptography-basics-pgpopenpgpgnupg/)**
 
 Special care should be taken when exchanging keys. This can be best done in person (or at a key party). You can also use a key server to retrieve keys. 
 
@@ -104,7 +106,7 @@ Special care should be taken when exchanging keys. This can be best done in pers
 |[MIT PGP Public Key Server](https://pgp.mit.edu/)|
 |[Validating Other Keys On Your Public Keyring](https://www.gnupg.org/gph/en/manual/x334.html)|
 
-> [Top <i class="fa fa-arrow-circle-up fa-lg"></i>](#top-of-page)
+> ###### [Top <i class="fa fa-arrow-circle-up fa-lg"></i>](#top-of-page)
 
 </details>
 
@@ -122,7 +124,7 @@ Using a public Wi-Fi access point.
 
 Using a burner device.
 
-Using [Tails](https://tails.boum.org/) with a spoofed MAC.
+Using **[Tails](https://tails.boum.org/)** with a spoofed MAC.
 
 ##### Steganography
 
@@ -136,6 +138,6 @@ In the days of the American Revolution, intelligence operators would communicate
 
 Using a stego tool to embed a GPG encrypted message and posting it to a random image board from a clean access point is literally impossible to detect or prevent. There are 1000's of image boards with billions of images being posted constantly. 
 
-> [Top <i class="fa fa-arrow-circle-up fa-lg"></i>](#top-of-page)
+> ###### [Top <i class="fa fa-arrow-circle-up fa-lg"></i>](#top-of-page)
 
 </details>

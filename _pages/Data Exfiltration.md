@@ -43,9 +43,9 @@ That being said, there may be times when a person may need or feel obligated to 
 “The Courage Foundation is an international organisation that supports those who risk life or liberty to make significant contributions to the historical record. We fundraise for the legal and public defence of specific individuals who fit these criteria and are subject to serious prosecution or persecution. We also campaign for the protection of truthtellers and the public’s right to know generally.”
 
 
-[Courage Foundation](https://www.couragefound.org/)
+**[Courage Foundation Homepage](https://www.couragefound.org/)**
 
-> [Top <i class="fa fa-arrow-circle-up fa-lg"></i>](#top-of-page)
+> ###### [Top <i class="fa fa-arrow-circle-up fa-lg"></i>](#top-of-page)
 
 </details>
 
@@ -65,7 +65,7 @@ We have personally seen people fired without notice for activities they had no i
 
 Even if they aren't actively monitoring, the digital paper trail will still be easily tracked back to you if you use one of these methods. 
 
-> [Top <i class="fa fa-arrow-circle-up fa-lg"></i>](#top-of-page)
+> ###### [Top <i class="fa fa-arrow-circle-up fa-lg"></i>](#top-of-page)
 
 </details>
 
@@ -81,7 +81,7 @@ Another way is to use a cell phone or camera to take photos of the documents, th
 
 You can remove physical documents from trashcans or dumpsters and scan those in later.
 
-> [Top <i class="fa fa-arrow-circle-up fa-lg"></i>](#top-of-page)
+> ###### [Top <i class="fa fa-arrow-circle-up fa-lg"></i>](#top-of-page)
 
 </details>
 
@@ -91,7 +91,7 @@ You can remove physical documents from trashcans or dumpsters and scan those in 
 <a class="anchor" name="level4"></a>
 </summary>
 
-Follow [NetP Wiki – Browsing – Level 4](http://www.shadowlinkit.com/browsing/#level4) recommendations. 
+Follow **[NetP Wiki – Browsing: Level 4](/browsing/#level4)** recommendations. 
 
 
 |These sites offer guides to leaking data:|
@@ -105,6 +105,6 @@ Follow [NetP Wiki – Browsing – Level 4](http://www.shadowlinkit.com/browsing
 |[WikiLeaks: Tips for sources](https://wikileaks.org/#submit_help_tips)|
 |[WikiLeaks: After submitting](https://wikileaks.org/#submit_help_after)|
 
-> [Top <i class="fa fa-arrow-circle-up fa-lg"></i>](#top-of-page)
+> ###### [Top <i class="fa fa-arrow-circle-up fa-lg"></i>](#top-of-page)
 
 </details>

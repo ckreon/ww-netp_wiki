@@ -68,7 +68,7 @@ If you forgot to browse in a private mode, or want to make sure everything is cl
 |[Internet Explorer](http://windows.microsoft.com/en-us/windows7/how-to-delete-your-browsing-history-in-internet-explorer-9)|
 |[Microsoft Edge](http://windows.microsoft.com/en-us/windows-10/view-delete-browsing-history-microsoft-edge)|
 
-> [Top <i class="fa fa-arrow-circle-up fa-lg"></i>](#top-of-page)
+> ###### [Top <i class="fa fa-arrow-circle-up fa-lg"></i>](#top-of-page)
 
 </details>
 
@@ -82,9 +82,9 @@ If you forgot to browse in a private mode, or want to make sure everything is cl
 
 If your goal is to avoid geographic restrictions or mask your IP address from *some* remote sites it may be appropriate to use an open web proxy. These proxy servers provide little protection against advanced threats. Many of them are blocked on most servers and resources but with persistence you can usually find a combination that will work. 
 
-[Proxy.org](http://proxy.org/)
+**[Proxy.org Homepage](http://proxy.org/)**
 
-> [Top <i class="fa fa-arrow-circle-up fa-lg"></i>](#top-of-page)
+> ###### [Top <i class="fa fa-arrow-circle-up fa-lg"></i>](#top-of-page)
 
 </details>
 
@@ -98,11 +98,10 @@ If your goal is to avoid geographic restrictions or mask your IP address from *s
 
 A better option is to utilize a VPN or Tor client. These tools help to improve privacy and security by encrypting traffic before it leaves the host and is then routed through a series of nodes before being passed on to the remote server. There are many free and paid options. Some accept payment in BTC or other cryptocurrencies. Using a VPN/Tor alone is not enough to prevent eavesdropping and traffic correlation from state level threats. Also, traffic can also leak identifying information about you that doesn't get piped through the tool. 
 
-[The Tor Project](https://www.torproject.org/)
+* [The Tor Project](https://www.torproject.org/)
+* [That One Privacy Guy's VPN Comparison Chart](https://docs.google.com/spreadsheets/d/1FJTvWT5RHFSYuEoFVpAeQjuQPU4BVzbOigT0xebxTOw/edit#gid=0)
 
-[That One Privacy Guy's VPN Comparison Chart](https://docs.google.com/spreadsheets/d/1FJTvWT5RHFSYuEoFVpAeQjuQPU4BVzbOigT0xebxTOw/edit#gid=0)
-
-> [Top <i class="fa fa-arrow-circle-up fa-lg"></i>](#top-of-page)
+> ###### [Top <i class="fa fa-arrow-circle-up fa-lg"></i>](#top-of-page)
 
 </details>
 
@@ -124,8 +123,8 @@ Even better but still has weaknesses. Your host can still leak traffic that can 
 
 Tails is a Linux distro designed with security and privacy in mind. It runs from a live DVD/CD or USB. Tails allows you to spoof your device's MAC address during the boot process. Tails also routes all of it's traffic through Tor. If you have the resources to use a 'burner' device that has no paper trail connected to you, even better. 
 
-[Tails](https://tails.boum.org/)
+**[Tails Homepage](https://tails.boum.org/)**
 
-> [Top <i class="fa fa-arrow-circle-up fa-lg"></i>](#top-of-page)
+> ###### [Top <i class="fa fa-arrow-circle-up fa-lg"></i>](#top-of-page)
 
 </details>

@@ -5,16 +5,21 @@ body {
 }
 
 blockquote {
+	color: #212324;
 	padding: .5rem 1rem;
   margin-bottom: .5rem;
-  font-size: 1.15rem;
-  border-right: .25rem solid #eceeef;
+  font-size: 1.1rem;
+  border-left: .5rem solid #eceeef;
+  border-right: .5rem solid #eceeef;
   background: #FAFAFA;
+
+  ul {
+  	margin-bottom: 0;
+  }
 }
 
 blockquote p {
 	margin: 0;
-	text-align: right;
 }
 
 h1, h2, h3, h4, h5, h6 {
