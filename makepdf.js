@@ -56,7 +56,7 @@ fs.readdir( md_dir, function( err, files ) {
         // Strip unwanted HTML and Links
         console.log( "Stripping unwanted HTML and Links...");
         var pattern_html =
-          /<\/?summary>|<\/?details>|> \[Top <i class=\"fa fa-arrow-circle-up fa-lg\"><\/i>\]\(#top-of-page\)/gi;
+          /<\/?summary>|<\/?details\ ?o?p?e?n?>|> \[Top <i class=\"fa fa-arrow-circle-up fa-lg\"><\/i>\]\(#top-of-page\)/gi;
 
         var strip_md_html = strip_md.replace (pattern_html, '');
         console.log( "Unwanted HTML and Links stripped." );

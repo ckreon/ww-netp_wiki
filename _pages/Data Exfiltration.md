@@ -29,7 +29,7 @@ A walk-through of safe(r) data exfiltration recommendations.
 
 ---
 
-<details>
+<details open>
 <summary>
 **Level 1 - Are You Sure You Want To Do This?**
 <a class="anchor" name="level1"></a>
@@ -49,7 +49,7 @@ That being said, there may be times when a person may need or feel obligated to 
 
 </details>
 
-<details>
+<details open>
 <summary>
 **Level 2 - Webmail/Email/IM**
 <a class="anchor" name="level2"></a>
@@ -69,7 +69,7 @@ Even if they aren't actively monitoring, the digital paper trail will still be e
 
 </details>
 
-<details>
+<details open>
 <summary>
 **Level 3 - Removable Media**
 <a class="anchor" name="level3"></a>
@@ -85,7 +85,7 @@ You can remove physical documents from trashcans or dumpsters and scan those in 
 
 </details>
 
-<details>
+<details open>
 <summary>
 **Level 4 - Release**
 <a class="anchor" name="level4"></a>
