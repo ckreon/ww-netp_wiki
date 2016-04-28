@@ -1,5 +1,9 @@
 // Custom Styles
 
+body {
+	background-image: url('/assets/img/bgnoise_t.png');
+}
+
 footer {
 	font-size: .8rem;
 }
@@ -66,6 +70,10 @@ a.anchor {
 	margin: 0;
 }
 
+.bg-inverse {
+	background-image: url('/assets/img/bgnoise_t.png');
+}
+
 #primary_nav_wrap ul
 {
 	list-style: none;
@@ -81,21 +89,21 @@ a.anchor {
 
 #primary_nav_wrap ul ul
 {
-	// display: none;
 	opacity: 0;
 	height: 0;
 	position: absolute;
 	top: 100%;
 	left: -.9rem;
-	background: #373a3c;
+	background: $gray-dark;
+	background-image: url('/assets/img/bgnoise_t.png');
 	padding: 0;
 	overflow: hidden;
 
-  -webkit-transition: all .1s ease .05s;
-  -moz-transition: all .1s ease .05s;
-  -o-transition: all .1s ease .05s;
-  -ms-transition: all .1s ease .05s;
-  transition: all .1s ease .05s;
+  -webkit-transition: all .1s ease .1s;
+  -moz-transition: all .1s ease .1s;
+  -o-transition: all .1s ease .1s;
+  -ms-transition: all .1s ease .1s;
+  transition: all .1s ease .1s;
 }
 
 #primary_nav_wrap ul ul li
@@ -106,7 +114,6 @@ a.anchor {
 
 #primary_nav_wrap ul li:hover > ul
 {
-	//display: block;
 	opacity: 1;
 	height: auto;
 }
