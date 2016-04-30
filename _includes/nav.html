@@ -50,7 +50,7 @@
         {% unless node.exclude %}
           {% if node.title %}
             <li class="nav-item">
-              <a class="nav-link" href="{% asset_path {{node.title}}.md.pdf %}" target="_blank">{{ node.title }}<br />PDF</a>
+              <a class="nav-link" href="{% asset_path {{node.title}}.pdf %}" target="_blank">{{ node.title }}<br />PDF</a>
             </li>
           {% endif %}
         {% endunless %}
