@@ -6,7 +6,7 @@
 
 #### Welcome to our open-source  guides focusing on Network Privacy & Security!
 
-If you are new to Github, and would like to create or update a guide, head into the **[_pages](https://github.com/ckreon/netp_wiki/tree/master/_pages)** folder.
+If you are new to Github, and would like to create or update a guide, head into the **[_guides](https://github.com/ckreon/netp_wiki/tree/master/_guides)** folder.
 
 * You will see a listing of the current guide files, which you can edit directly in the browser and submit for review.
 * You can also create a new guide with the "New File" button. Use the other guides in the folder as reference for setting up the file properly.

@@ -3,8 +3,7 @@
   "version": "1.0.0",
   "description": "A collection of open-source guides focusing on Network Privacy & Security.",
   "main": "index.html",
-  "scripts": {
-  },
+  "scripts": {},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/ckreon/netp_wiki.git"

@@ -53,10 +53,6 @@ It should be noted that we may never know what companies have surveillance capab
 > The EFF does an amazing job comparing many 'secure' ways to communicate and created a handy chart:  
 > **[Secure Messaging Scorecard](https://www.eff.org/secure-messaging-scorecard)**
 
-<br />
-
-> ###### [Top <i class="fa fa-arrow-circle-up fa-lg"></i>](#top-of-page)
-
 </details>
 
 <details open>
@@ -82,8 +78,6 @@ After implementing those protocols, use one the services stated above. If you wa
 
 Never use a personal or known account. Only access those accounts after following the recommendations. If you have a high threat level it may be necessary to make an exhaustive checklist to attain safety. Even ONE mistake can be all it takes. 
 
-> ###### [Top <i class="fa fa-arrow-circle-up fa-lg"></i>](#top-of-page)
-
 </details>
 
 <details open>
@@ -105,8 +99,6 @@ Special care should be taken when exchanging keys. This can be best done in pers
 |[MANUAL - Using The GNU Privacy Guard](https://www.gnupg.org/documentation/manuals/gnupg/)|
 |[MIT PGP Public Key Server](https://pgp.mit.edu/)|
 |[Validating Other Keys On Your Public Keyring](https://www.gnupg.org/gph/en/manual/x334.html)|
-
-> ###### [Top <i class="fa fa-arrow-circle-up fa-lg"></i>](#top-of-page)
 
 </details>
 
@@ -138,6 +130,6 @@ In the days of the American Revolution, intelligence operators would communicate
 
 Using a stego tool to embed a GPG encrypted message and posting it to a random image board from a clean access point is literally impossible to detect or prevent. There are 1000's of image boards with billions of images being posted constantly. 
 
-> ###### [Top <i class="fa fa-arrow-circle-up fa-lg"></i>](#top-of-page)
-
 </details>
+
+> ###### [Top <i class="fa fa-arrow-circle-up fa-lg"></i>](#top-of-page)

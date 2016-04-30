@@ -2,7 +2,7 @@
 set -x
 
 # Generate the PDF's
-node makepdf.js
+node _scripts/makepdf_md.js
 
 # Build the site with Jekyll
 bundle exec jekyll build

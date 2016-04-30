@@ -6,7 +6,7 @@ var markdownpdf = require( 'markdown-pdf' );
 // Set markdown-pdf options
 // ------------------------
 var ops = {
-  cssPath: '_dev/scss/_pdf_style.css',
+  cssPath: '_assets/css/_pdf_style.css',
   remarkable: {
     xhtmlOut: true,
     linkify: true
@@ -16,8 +16,8 @@ var ops = {
 // -------------------------------
 // Set base MD and PDF directories
 // -------------------------------
-var md_dir = "_pages";
-var pdf_dir = "assets/pdf"
+var md_dir = "guides";
+var pdf_dir = "_assets/pdf"
 
 // -------------------------------
 // Loop through all the files in the directory
@@ -56,13 +56,20 @@ fs.readdir( md_dir, function( err, files ) {
         // Strip unwanted HTML and Links
         console.log( "Stripping unwanted HTML and Links...");
         var pattern_html =
-          /<\/?summary>|<\/?details\ ?o?p?e?n?>|> \[Top <i class=\"fa fa-arrow-circle-up fa-lg\"><\/i>\]\(#top-of-page\)/gi;
+          /<\/?summary>|<\/?details\ ?o?p?e?n?>|> (#*) \[Top <i class=\"fa fa-arrow-circle-up fa-lg\"><\/i>\]\(#top-of-page\)/gi;
 
         var strip_md_html = strip_md.replace (pattern_html, '');
         console.log( "Unwanted HTML and Links stripped." );
 
+        // Replace Liquid tags
+        var pattern_liquid =
+          /{{ site.baseurl }}/gi;
+
+        var replace_liquid = strip_md_html.replace (pattern_liquid, 'http://wiki.shadowlinkit.com');
+        console.log( "Liquid Tags replaced." );
+
         // Pass stripped string to markdown-pdf
-        markdownpdf(ops).from.string(strip_md_html).to(pdf_path, function () {
+        markdownpdf(ops).from.string(replace_liquid).to(pdf_path, function () {
           console.log("Created", pdf_path)
         } );
       }

@@ -45,8 +45,6 @@ That being said, there may be times when a person may need or feel obligated to 
 
 **[Courage Foundation Homepage](https://www.couragefound.org/)**
 
-> ###### [Top <i class="fa fa-arrow-circle-up fa-lg"></i>](#top-of-page)
-
 </details>
 
 <details open>
@@ -65,8 +63,6 @@ We have personally seen people fired without notice for activities they had no i
 
 Even if they aren't actively monitoring, the digital paper trail will still be easily tracked back to you if you use one of these methods. 
 
-> ###### [Top <i class="fa fa-arrow-circle-up fa-lg"></i>](#top-of-page)
-
 </details>
 
 <details open>
@@ -80,8 +76,6 @@ If your computer has a USB drive, copying files to a removable thumb drive and r
 Another way is to use a cell phone or camera to take photos of the documents, then strip the metadata before release through a secure channel. 
 
 You can remove physical documents from trashcans or dumpsters and scan those in later.
-
-> ###### [Top <i class="fa fa-arrow-circle-up fa-lg"></i>](#top-of-page)
 
 </details>
 
@@ -105,6 +99,6 @@ Follow **[NetP Wiki – Browsing: Level 4]({{ site.baseurl }}/browsing/#level4)*
 |[WikiLeaks: Tips for sources](https://wikileaks.org/#submit_help_tips)|
 |[WikiLeaks: After submitting](https://wikileaks.org/#submit_help_after)|
 
-> ###### [Top <i class="fa fa-arrow-circle-up fa-lg"></i>](#top-of-page)
-
 </details>
+
+> ###### [Top <i class="fa fa-arrow-circle-up fa-lg"></i>](#top-of-page)

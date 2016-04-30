@@ -1,7 +1,7 @@
 // Custom Styles
 
 body {
-	background-image: url('/assets/img/bgnoise_t.png');
+	background-image: url(image_path('bgnoise_t.png'));
 }
 
 footer {
@@ -71,7 +71,7 @@ a.anchor {
 }
 
 .bg-inverse {
-	background-image: url('/assets/img/bgnoise_t.png');
+	background-image: url(image_path('bgnoise_t.png'));
 }
 
 #primary_nav_wrap ul
@@ -95,7 +95,7 @@ a.anchor {
 	top: 100%;
 	left: -.9rem;
 	background: $gray-dark;
-	background-image: url('/assets/img/bgnoise_t.png');
+	background-image: url(image_path('bgnoise_t.png'));
 	padding: 0;
 	overflow: hidden;
 

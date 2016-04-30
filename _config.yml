@@ -1,24 +1,49 @@
 # Site Settings
 title: 'NetP Wiki'
-company: 'ShadowLink IT'
+company: 'ShadowLink'
 email: 'ShadowLinkIT@protonmail.com'
 github_url: 'https://github.com/ckreon/netp_wiki'
-description: 'A collection of open-source guides focusing on Network Privacy & Security.'
+description: 'A collection of open-source guides focusing on network privacy & security.'
 
 # Build Settings
-include: ['_pages']
-exclude: ['README.md', 'LICENSE', 'Gemfile', 'Gemfile.lock', 'vendor', 'gulpfile.js', 'node_modules', 'package.json', 'makepdf.js']
-gems: ['jekyll-assets', 'octopress-minify-html', 'jekyll-sitemap']
+permalink: /:title/
 
-# FrontMatter Settings
-permalink: '/:title/'
+include:
+  - _guides
+
+exclude:
+  - README.md
+  - LICENSE
+  - Gemfile
+  - Gemfile.lock
+  - vendor
+  - gulpfile.js
+  - node_modules
+  - package.json
+  - makepdf.js
+
+gems:
+  - jekyll-assets
+  - octopress-minify-html
+  - jekyll-sitemap
+
+# Asset Settings
+assets:
+  sources:
+    - _assets/pdf
+    - _assets/icons
 
 # Style Settings
 sass:
-  sass_dir: '_dev/scss'
+  sass_dir: '_assets/css'
   style: 'compressed'
 
 # Markdown Settings
 markdown: 'redcarpet'
 redcarpet:
-  extensions: ['no_intra_emphasis', 'tables', 'autolink', 'strikethrough', 'with_toc_data']
+  extensions:
+    - no_intra_emphasis
+    - tables
+    - autolink
+    - strikethrough
+    - with_toc_data

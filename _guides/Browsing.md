@@ -68,8 +68,6 @@ If you forgot to browse in a private mode, or want to make sure everything is cl
 |[Internet Explorer](http://windows.microsoft.com/en-us/windows7/how-to-delete-your-browsing-history-in-internet-explorer-9)|
 |[Microsoft Edge](http://windows.microsoft.com/en-us/windows-10/view-delete-browsing-history-microsoft-edge)|
 
-> ###### [Top <i class="fa fa-arrow-circle-up fa-lg"></i>](#top-of-page)
-
 </details>
 
 <details open>
@@ -83,8 +81,6 @@ If you forgot to browse in a private mode, or want to make sure everything is cl
 If your goal is to avoid geographic restrictions or mask your IP address from *some* remote sites it may be appropriate to use an open web proxy. These proxy servers provide little protection against advanced threats. Many of them are blocked on most servers and resources but with persistence you can usually find a combination that will work. 
 
 **[Proxy.org Homepage](http://proxy.org/)**
-
-> ###### [Top <i class="fa fa-arrow-circle-up fa-lg"></i>](#top-of-page)
 
 </details>
 
@@ -100,8 +96,6 @@ A better option is to utilize a VPN or Tor client. These tools help to improve p
 
 * [The Tor Project](https://www.torproject.org/)
 * [That One Privacy Guy's VPN Comparison Chart](https://docs.google.com/spreadsheets/d/1FJTvWT5RHFSYuEoFVpAeQjuQPU4BVzbOigT0xebxTOw/edit#gid=0)
-
-> ###### [Top <i class="fa fa-arrow-circle-up fa-lg"></i>](#top-of-page)
 
 </details>
 
@@ -125,6 +119,6 @@ Tails is a Linux distro designed with security and privacy in mind. It runs from
 
 **[Tails Homepage](https://tails.boum.org/)**
 
-> ###### [Top <i class="fa fa-arrow-circle-up fa-lg"></i>](#top-of-page)
-
 </details>
+
+> ###### [Top <i class="fa fa-arrow-circle-up fa-lg"></i>](#top-of-page)
