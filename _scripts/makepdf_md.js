@@ -16,7 +16,7 @@ var ops = {
 // -------------------------------
 // Set base MD and PDF directories
 // -------------------------------
-var md_dir = "guides";
+var md_dir = "_guides";
 var pdf_dir = "_assets/pdf"
 
 // -------------------------------
