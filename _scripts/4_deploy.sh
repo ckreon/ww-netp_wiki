@@ -2,7 +2,7 @@
 set -x
 
 # Compress assets with Zopfli
-_zopfli/zopfli --i1000 _site/*.xml _site/*.html _site/**/*.html _site/assets/css/*.css _site/assets/pdf/*.pdf _site/assets/fonts/* _site/assets/icons/*
+_zopfli/zopfli --i1000 _site/*.xml _site/*.html _site/**/*.html _site/assets/*
 
 # Start SSH Agent
 eval `ssh-agent -s`
