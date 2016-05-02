@@ -20,7 +20,6 @@ exclude:
   - gulpfile.js
   - node_modules
   - package.json
-  - makepdf.js
 
 gems:
   - jekyll-assets
@@ -29,14 +28,10 @@ gems:
 
 # Asset Settings
 assets:
+  cache: false
   sources:
     - _assets/pdf
     - _assets/icons
-
-# Style Settings
-sass:
-  sass_dir: '_assets/css'
-  style: 'compressed'
 
 # Markdown Settings
 markdown: 'redcarpet'
