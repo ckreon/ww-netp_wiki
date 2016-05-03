@@ -1,15 +1,17 @@
 #!/bin/bash
 set -x
 
-# Compress assets with Zopfli
-_zopfli/zopfli --i1000 _site/*.xml _site/*.html _site/**/*.html _site/assets/*
+if [ $TRAVIS_PULL_REQUEST == false ] ; then
 
-# Start SSH Agent
-eval `ssh-agent -s`
-ssh-add ~/.ssh/netp_wiki_deploy
+  # Deploy to Production Server if branch is master
+  if [ $TRAVIS_BRANCH == 'master' ] ; then
+    # Compress assets with Zopfli
+    _zopfli/zopfli --i1000 _site/*.xml _site/*.html _site/**/*.html _site/assets/*
 
-# Deploy to Production Server if branch is master
-if [ $TRAVIS_BRANCH == 'master' ] ; then
+    # Start SSH Agent
+    eval `ssh-agent -s`
+    ssh-add ~/.ssh/netp_wiki_deploy
+
     # Initialize a new git repo in _site, and push it to our server.
     cd _site
     git init
@@ -21,6 +23,8 @@ if [ $TRAVIS_BRANCH == 'master' ] ; then
     git add .
     git commit -m "Deploy"
     git push --force deploy master
-else
+  else
     echo "Not deploying, branch is not master."
+  fi
+
 fi
