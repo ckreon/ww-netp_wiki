@@ -28,7 +28,6 @@ gems:
 
 # Asset Settings
 assets:
-  cache: false
   sources:
     - _assets/pdf
     - _assets/icons
