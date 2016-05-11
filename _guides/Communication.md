@@ -40,8 +40,8 @@ Depending on your particular threat level, various issues need to be considered.
 
 |OpSec Basics:|
 |:-------|
-|[OpenSourceSec Blog - Strong Password](https://opensourcesec.wordpress.com/2015/12/08/passwords/)|
-|[OpenSourceSec Blog - Malware Awarness](https://opensourcesec.wordpress.com/2015/12/15/malware/)|
+|[ShadowLink Blog - Password Safety](http://shadowlinkit.com/passwords/)|
+|[ShadowLink Blog - Malware Basics](http://shadowlinkit.com/malware/)|
 |[NetP Wiki - Browsing - Level 1]({{ site.baseurl }}/browsing/#level1)|
 
 Anytime security or privacy is needed you should create separate email/messenger accounts specifically for this purpose. If you use a cell phone, laptop or device that offers full disk encryption it should be used, especially with a strong passphrase. A weak or guessable passphrase is useless. 
