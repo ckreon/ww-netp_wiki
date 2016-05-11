@@ -70,6 +70,13 @@ a.anchor {
 	margin: 0;
 }
 
+#top {
+	text-align: right;
+	margin: 0;
+}
+
+// Nav Style
+
 .bg-inverse {
 	background-image: url(image_path('bgnoise_t.png'));
 }
@@ -116,9 +123,4 @@ a.anchor {
 {
 	opacity: 1;
 	height: auto;
-}
-
-#top {
-	text-align: right;
-	margin: 0;
 }
