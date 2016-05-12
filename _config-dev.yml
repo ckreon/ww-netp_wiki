@@ -2,3 +2,6 @@
 gems:
   - jekyll-assets
   - jekyll-sitemap
+
+# Bind to IP (make site available via LAN or WAN)
+host: 0.0.0.0
