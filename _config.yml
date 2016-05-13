@@ -1,9 +1,12 @@
 # Site Settings
 title: 'NetP Wiki'
+description: 'A collection of open-source guides focusing on network privacy & security.'
+
+# Site Variables
 company: 'ShadowLink'
 email: 'ShadowLinkIT@protonmail.com'
 github_url: 'https://github.com/ckreon/netp_wiki'
-description: 'A collection of open-source guides focusing on network privacy & security.'
+
 
 # Build Settings
 permalink: /:title/
