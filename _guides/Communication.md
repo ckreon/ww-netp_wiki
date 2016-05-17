@@ -95,13 +95,10 @@ Special care should be taken when exchanging keys. This can be best done in pers
 
 |GPG Resources:|
 |:-------|
-|The GNU Privacy Guard (`https://www.gnupg.org/`)|
-|MANUAL - Using The GNU Privacy Guard (`https://www.gnupg.org/documentation/manuals/gnupg/`)|
+|[The GNU Privacy Guard](https://www.gnupg.org/)|
+|[MANUAL - Using The GNU Privacy Guard](https://www.gnupg.org/documentation/manuals/gnupg/)|
 |[MIT PGP Public Key Server](https://pgp.mit.edu/)|
-|Validating Other Keys On Your Public Keyring (`https://www.gnupg.org/gph/en/manual/x334.html`)|
-
-*The GnuPG links were stripped as currently all of GnuPG.org is down. Hopefully this is just temporary, and if so, we will restore these links when the site is functional.  
-__(Edited: May 16, 2016)__*
+|[Validating Other Keys On Your Public Keyring](https://www.gnupg.org/gph/en/manual/x334.html)|
 
 </details>
 

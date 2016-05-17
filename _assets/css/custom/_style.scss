@@ -75,6 +75,16 @@ a.anchor {
 	margin: 0;
 }
 
+.navbar-brand {
+	font-size: 1.2rem;
+}
+
+@media (min-width: 414px) {
+	.navbar-brand {
+		font-size: 1.25rem;
+	}
+}
+
 // Nav Style
 
 .bg-inverse {
@@ -97,7 +107,7 @@ a.anchor {
 	height: 0;
 	position: absolute;
 	top: 100%;
-	left: -.9rem;
+	left: -1rem;
 	background: $gray-dark;
 	background-image: url(image_path('bgnoise_t.png'));
 	padding: 0;
@@ -108,6 +118,10 @@ a.anchor {
   -o-transition: all .1s ease .1s;
   -ms-transition: all .1s ease .1s;
   transition: all .1s ease .1s;
+}
+
+#primary_nav_wrap ul li:nth-child(3) ul {
+		left: -3.5rem;
 }
 
 #primary_nav_wrap ul ul li {
