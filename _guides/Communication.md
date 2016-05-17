@@ -89,7 +89,7 @@ Never use a personal or known account. Only access those accounts after followin
 GPG or GnuPG (previously known to many as PGP), is a form of public key encryption used for encrypted communications and digitally signing messages to verify integrity. 
 
 For a basic introduction to public key encryption, see:  
-**[OpenSourceSec Blog - Cryptography Basics](https://opensourcesec.wordpress.com/2016/01/13/public-key-cryptography-basics-pgpopenpgpgnupg/)**
+**[OpenSourceSec Blog - Cryptography Basics](http://shadowlinkit.com/cryptography/)**
 
 Special care should be taken when exchanging keys. This can be best done in person (or at a key party). You can also use a key server to retrieve keys. 
 
