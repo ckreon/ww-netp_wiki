@@ -91,6 +91,10 @@ a.anchor {
 	background-image: url(image_path('bgnoise_t.png'));
 }
 
+#primary_nav_wrap {
+	box-shadow: 0px 1px 5px rgba(55,58,60,.5);
+}
+
 #primary_nav_wrap ul {
 	list-style: none;
 }
@@ -132,6 +136,7 @@ a.anchor {
 #primary_nav_wrap ul li:hover > ul {
 	opacity: 1;
 	height: auto;
+	box-shadow: 0px 7px 5px rgba(55,58,60,.5);
 }
 
 // For the Safari mobile browser
