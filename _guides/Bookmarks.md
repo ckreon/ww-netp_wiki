@@ -1,10 +1,10 @@
 ---
 layout: default
-permalink: /bookmarks/
-title: Bookmarks
+permalink: /reference/
+title: Reference
 ---
-Bookmark Reference
+Bookmark Reference 
 ====================
-TEST
 
+Eventually, a wealth of information will live here.
 
