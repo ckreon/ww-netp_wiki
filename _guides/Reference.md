@@ -16,29 +16,39 @@ Reference
 
 ---
 
-| Unsorted |
+| General |
 | ------------- |
-| [Your Ultimate Security Guide - Justin Carroll](https://www.yourultimatesecurity.guide/) |
-| [WikiLeaks](https://wikileaks.org/) |
-| [OpenVPN](https://openvpn.net/) |
-| [Tor Project](https://www.torproject.org/) |
-| [VirusTotal](https://www.virustotal.com/) |
-| [CVE Details](https://www.cvedetails.com/) |
-| [BleepingComputer](http://www.bleepingcomputer.com/) |
-| [Tails](https://tails.boum.org/) |
-| [The Social-Engineer Toolkit (SET)](https://www.trustedsec.com/social-engineer-toolkit/) |
-| [Shodan](https://www.shodan.io/) |
-| [ARIN](https://www.arin.net/) |
-| [MIT PGP Public Key Server](https://pgp.mit.edu/) |
 | [Electronic Frontier Foundation - EFF](https://www.eff.org/) |
 | [DEF CON](https://www.defcon.org/) |
-| [Unmasked: What 10 million passwords reveal](https://wpengine.com/unmasked/) |
-| [RouterPasswords.com](http://www.routerpasswords.com/) |
-| [Kali Linux](https://www.kali.org/) |
-| [HashKiller](https://hashkiller.co.uk/) |
-| [DC530](http://dc530.org/) |
-| [IntelTechniques](https://inteltechniques.com/) |
-| [libertyX](https://libertyx.com/) |
-| [GPG Cheatsheet](http://irtfweb.ifa.hawaii.edu/~lockhart/gpg/) |
+| [WikiLeaks](https://wikileaks.org/) |
 | [Courage Foundation](https://www.couragefound.org/) |
-| [Account Killer](https://www.accountkiller.com/en/) |
+| [IntelTechniques](https://inteltechniques.com/) |
+| [Your Ultimate Security Guide - Justin Carroll](https://www.yourultimatesecurity.guide/) |
+
+#### Tools
+
+* [OpenVPN](https://openvpn.net/)
+* [Tor Project](https://www.torproject.org/)
+* [Tails](https://tails.boum.org/)
+* [The Social-Engineer Toolkit (SET)](https://www.trustedsec.com/social-engineer-toolkit/)
+* [Kali Linux](https://www.kali.org/)
+
+
+### Resources
+
+* [Shodan](https://www.shodan.io/)
+* [VirusTotal](https://www.virustotal.com/)
+* [ARIN](https://www.arin.net/)
+* [RouterPasswords.com](http://www.routerpasswords.com/)
+* [HashKiller](https://hashkiller.co.uk/)
+* [Account Killer](https://www.accountkiller.com/en/)
+* [CVE Details](https://www.cvedetails.com/)
+
+## Other
+
+* [BleepingComputer](http://www.bleepingcomputer.com/)
+* [MIT PGP Public Key Server](https://pgp.mit.edu/)
+* [Unmasked: What 10 million passwords reveal](https://wpengine.com/unmasked/)
+* [DC530](http://dc530.org/)
+* [libertyX](https://libertyx.com/)
+* [GPG Cheatsheet](http://irtfweb.ifa.hawaii.edu/~lockhart/gpg/)
