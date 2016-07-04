@@ -49,7 +49,6 @@ Reference
 * [BleepingComputer](http://www.bleepingcomputer.com/)
 * [MIT PGP Public Key Server](https://pgp.mit.edu/)
 * [Unmasked: What 10 million passwords reveal](https://wpengine.com/unmasked/)
-* [DC530](http://dc530.org/)
 * [libertyX](https://libertyx.com/)
 * [GPG Cheatsheet](http://irtfweb.ifa.hawaii.edu/~lockhart/gpg/)
 
