@@ -6,24 +6,24 @@ title: Reference
 Reference 
 ====================
 
-| ShadowLink |
-| ------------- |
-| [ShadowLink](http://www.shadowlinkit.com) |
-| [ShadowLink Facebook](https://www.facebook.com/shadowlinksec/)
-| [OpenSourceSec Blog](http://www.shadowlinkit.com/blog/) |
-| [NetP Wiki Project](http://wiki.shadowlinkit.com/) |
-| [NetP Wiki GitHub](https://github.com/ckreon/netp_wiki) |
+#### ShadowLink
+
+* [ShadowLink](http://www.shadowlinkit.com)
+* [ShadowLink Facebook](https://www.facebook.com/shadowlinksec/)
+* [OpenSourceSec Blog](http://www.shadowlinkit.com/blog/)
+* [NetP Wiki Project](http://wiki.shadowlinkit.com/)
+* [NetP Wiki GitHub](https://github.com/ckreon/netp_wiki)
 
 ---
 
-| General |
-| ------------- |
-| [Electronic Frontier Foundation - EFF](https://www.eff.org/) |
-| [DEF CON](https://www.defcon.org/) |
-| [WikiLeaks](https://wikileaks.org/) |
-| [Courage Foundation](https://www.couragefound.org/) |
-| [IntelTechniques](https://inteltechniques.com/) |
-| [Your Ultimate Security Guide - Justin Carroll](https://www.yourultimatesecurity.guide/) |
+#### General
+
+* [Electronic Frontier Foundation - EFF](https://www.eff.org/)
+* [DEF CON](https://www.defcon.org/)
+* [WikiLeaks](https://wikileaks.org/)
+* [Courage Foundation](https://www.couragefound.org/)
+* [IntelTechniques](https://inteltechniques.com/)
+* [Your Ultimate Security Guide - Justin Carroll](https://www.yourultimatesecurity.guide/)
 
 #### Tools
 
@@ -34,7 +34,7 @@ Reference
 * [Kali Linux](https://www.kali.org/)
 
 
-### Resources
+#### Resources
 
 * [Shodan](https://www.shodan.io/)
 * [VirusTotal](https://www.virustotal.com/)
@@ -44,7 +44,7 @@ Reference
 * [Account Killer](https://www.accountkiller.com/en/)
 * [CVE Details](https://www.cvedetails.com/)
 
-## Other
+#### Other
 
 * [BleepingComputer](http://www.bleepingcomputer.com/)
 * [MIT PGP Public Key Server](https://pgp.mit.edu/)
