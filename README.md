@@ -136,6 +136,10 @@ New paragraph!
 **Random bold text**   
 ~~Scratch this out~~
 
+* **[Back to contents](#markdown-quick-start)**
+
+---
+
 #### Blockquotes:
 
 ```
