@@ -2,7 +2,7 @@
 
 # NetP Wiki
 
-***-This project is still under construction-***
+***- This project is still under construction -***
 
 #### Welcome to our open-source  guides focusing on Network Privacy & Security!
 
@@ -17,7 +17,7 @@ If you are new to Github, and would like to create or update a guide, head into 
 
 1. [Headers](#section-headers)
 2. [Horizontal Lines](#horizontal-lines)
-3. [New Lines](#new-lines)
+3. [New Lines & Text Style](#new-lines-&-text-style)
 4. [Blockquotes](#blockquotes)
 5. [Lists](#lists)
 6. [Links](#links)
@@ -105,7 +105,7 @@ ___
 
 ---
 
-#### New Lines:
+#### New Lines & Text Style:
 
 ```
 Use two spaces after text to create a new line:  
@@ -188,11 +188,13 @@ Use an extra line to create a new paragraph:
 #### Links:
 
 ```
-[This is an inline link](http://www.example.com)  
-http://www.example.com
+[This is an inline link](http://www.example.com)
+
+http://www.example.com (this is a direct link)
 ```
 
-[This is an inline link](http://www.example.com)  
+[This is an inline link](http://www.example.com)
+
 http://www.example.com
 
 * **[Back to contents](#markdown-quick-start)**
@@ -237,7 +239,7 @@ function format () {
 The bottom dashes spread-out the table to better show alignment
 
 | I'm                    | A                      | Table                  |
-|:---------------------- |:---------------------: | ----------------------:|
+|:---------------------- |:----------------------:| ----------------------:|
 | This column            | This is                | *Right*                |
 | will align             | *center*               | Aligned                |
 | *left*                 | aligned                | Column!                |
@@ -246,7 +248,7 @@ The bottom dashes spread-out the table to better show alignment
 ```
 
 | I'm                    | A                      | Table                  |
-|:---------------------- |:---------------------: | ----------------------:|
+|:---------------------- |:----------------------:| ----------------------:|
 | This column            | This is                | *Right*                |
 | will align             | *center*               | Aligned                |
 | *left*                 | aligned                | Column!                |
