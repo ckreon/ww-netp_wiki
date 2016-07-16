@@ -4,31 +4,26 @@
 }
 
 body {
-  -ms-text-size-adjust: 100%;
   -webkit-text-size-adjust: 100%;
+  text-size-adjust: 100%;
   color: #333;
   font-family: "Helvetica Neue", Helvetica, "Segoe UI", Arial, freesans, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
-  font-size: 16px;
+  font-size: 10px;
   line-height: 1.6;
   word-wrap: break-word;
 }
 
 body a {
   background-color: transparent;
-  -webkit-text-decoration-skip: objects;
 }
 
 body a:active,
 body a:hover {
-  outline-width: 0;
+  outline: 0;
 }
 
 body strong {
-  font-weight: inherit;
-}
-
-body strong {
-  font-weight: bolder;
+  font-weight: bold;
 }
 
 body h1 {
@@ -37,11 +32,16 @@ body h1 {
 }
 
 body img {
-  border-style: none;
+  border: 0;
 }
 
-body svg:not(:root) {
-  overflow: hidden;
+body hr {
+  box-sizing: content-box;
+  height: 0;
+}
+
+body pre {
+  overflow: auto;
 }
 
 body code,
@@ -51,36 +51,28 @@ body pre {
   font-size: 1em;
 }
 
-body hr {
-  box-sizing: content-box;
-  height: 0;
-  overflow: visible;
-}
-
 body input {
+  color: inherit;
   font: inherit;
   margin: 0;
 }
 
+body html input[disabled] {
+  cursor: default;
+}
+
 body input {
-  overflow: visible;
+  line-height: normal;
 }
 
-body button:-moz-focusring,
-body [type="button"]:-moz-focusring,
-body [type="reset"]:-moz-focusring,
-body [type="submit"]:-moz-focusring {
-  outline: 1px dotted ButtonText;
-}
-
-body [type="checkbox"] {
+body input[type="checkbox"] {
   box-sizing: border-box;
   padding: 0;
 }
 
 body table {
-  border-spacing: 0;
   border-collapse: collapse;
+  border-spacing: 0;
 }
 
 body td,
@@ -93,7 +85,7 @@ body * {
 }
 
 body input {
-  font: 13px/1.4 Helvetica, arial, nimbussansl, liberationsans, freesans, clean, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+  font: 13px / 1.4 Helvetica, arial, nimbussansl, liberationsans, freesans, clean, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
 }
 
 body a {
@@ -115,12 +107,12 @@ body hr {
   border-bottom: 1px solid #ddd;
 }
 
-body hr::before {
+body hr:before {
   display: table;
   content: "";
 }
 
-body hr::after {
+body hr:after {
   display: table;
   clear: both;
   content: "";
@@ -132,9 +124,9 @@ body h3,
 body h4,
 body h5,
 body h6 {
-  margin-top: 0;
-  margin-bottom: 0;
-  line-height: 1.5;
+  margin-top: 15px;
+  margin-bottom: 15px;
+  line-height: 1.1;
 }
 
 body h1 {
@@ -161,18 +153,13 @@ body h6 {
   font-size: 11px;
 }
 
-body p {
-  margin-top: 0;
-  margin-bottom: 10px;
-}
-
 body blockquote {
   margin: 0;
 }
 
 body ul,
 body ol {
-  padding-left: 0;
+  padding: 0;
   margin-top: 0;
   margin-bottom: 0;
 }
@@ -204,36 +191,25 @@ body pre {
   font: 12px Consolas, "Liberation Mono", Menlo, Courier, monospace;
 }
 
-body .pl-0 {
-  padding-left: 0 !important;
-}
-
-body .pl-1 {
-  padding-left: 3px !important;
-}
-
-body .pl-2 {
-  padding-left: 6px !important;
-}
-
-body .pl-3 {
-  padding-left: 12px !important;
-}
-
-body .pl-4 {
-  padding-left: 24px !important;
-}
-
-body .pl-5 {
-  padding-left: 36px !important;
-}
-
-body .pl-6 {
-  padding-left: 48px !important;
-}
-
-body .form-select::-ms-expand {
+body .select::-ms-expand {
   opacity: 0;
+}
+
+body .octicon {
+  font: normal normal normal 16px/1 octicons-link;
+  display: inline-block;
+  text-decoration: none;
+  text-rendering: auto;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+body .octicon-link:before {
+  content: '\f05c';
 }
 
 body:before {
@@ -660,23 +636,6 @@ body kbd {
   box-shadow: inset 0 -1px 0 #bbb;
 }
 
-body .full-commit .btn-outline:not(:disabled):hover {
-  color: #4078c0;
-  border: 1px solid #4078c0;
-}
-
-body :checked+.radio-label {
-  position: relative;
-  z-index: 1;
-  border-color: #4078c0;
-}
-
-body .octicon {
-  display: inline-block;
-  vertical-align: text-top;
-  fill: currentColor;
-}
-
 body .task-list-item {
   list-style-type: none;
 }
@@ -686,10 +645,12 @@ body .task-list-item+.task-list-item {
 }
 
 body .task-list-item input {
-  margin: 0 0.2em 0.25em -1.6em;
+  margin: 0 0.35em 0.25em -1.6em;
   vertical-align: middle;
 }
 
-body hr {
-  border-bottom-color: #eee;
+body :checked+.radio-label {
+  z-index: 1;
+  position: relative;
+  border-color: #4078c0;
 }
