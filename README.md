@@ -17,7 +17,7 @@ If you are new to Github, and would like to create or update a guide, head into 
 
 1. [Headers](#section-headers)
 2. [Horizontal Lines](#horizontal-lines)
-3. [New Lines & Text Style](#new-lines-&-text-style)
+3. [New Lines & Text Style](#new-lines--text-style)
 4. [Blockquotes](#blockquotes)
 5. [Lists](#lists)
 6. [Links](#links)
