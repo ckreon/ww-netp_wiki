@@ -202,12 +202,10 @@ New paragraph!
 
 ```
 [This is an inline link](http://www.example.com)
-
 http://www.example.com - this is a direct link!
 ```
 
-[This is an inline link](http://www.example.com)
-
+[This is an inline link](http://www.example.com)  
 http://www.example.com - this is a direct link!
 
 * **[Back to contents](#markdown-quick-start)**
