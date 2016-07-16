@@ -17,12 +17,13 @@ If you are new to Github, and would like to create or update a guide, head into 
 
 1. [Headers](#section-headers)
 2. [Horizontal Lines](#horizontal-lines)
-3. [New Lines & Text Style](#new-lines--text-style)
-4. [Blockquotes](#blockquotes)
-5. [Lists](#lists)
-6. [Links](#links)
-7. [Codeblocks](#codeblocks)
-8. [Tables](#tables)
+3. [New Lines](#new-lines)
+4. [Text Style](#text-style)
+5. [Blockquotes](#blockquotes)
+6. [Lists](#lists)
+7. [Links](#links)
+8. [Codeblocks](#codeblocks)
+9. [Tables](#tables)
 
 **[Full Markdown Cheatsheat](https://github.com/adam-p/markdown-here/wiki/Markdown-Here-Cheatsheet)**
 
@@ -105,27 +106,35 @@ ___
 
 ---
 
-#### New Lines & Text Style:
+#### New Lines:
 
 ```
 Use two spaces after text to create a new line:  
 Use an extra line to create a new paragraph:
 
-*This is italic text*  
-**Random bold text**   
-~~Scratch this out~~
+New paragraph!
 ```
 
 Use two spaces after text to create a new line:  
 Use an extra line to create a new paragraph:
 
-*This is italic text*  
-**Random bold text**   
-~~Scratch this out~~
+New paragraph!
 
 * **[Back to contents](#markdown-quick-start)**
 
 ---
+
+#### Text Style:
+
+```
+*This is italic text*  
+**Random bold text**   
+~~Scratch this out~~
+```
+
+*This is italic text*  
+**Random bold text**   
+~~Scratch this out~~
 
 #### Blockquotes:
 
