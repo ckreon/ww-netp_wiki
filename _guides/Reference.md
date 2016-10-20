@@ -22,7 +22,7 @@ Reference
 * [WikiLeaks](https://wikileaks.org)
 * [Courage Foundation](https://www.couragefound.org)
 * [IntelTechniques](https://inteltechniques.com)
-* [Your Ultimate Security Guide - Justin Carroll](https://www.yourultimatesecurity.guide)
+* [Your Ultimate Security Guide - Justin Carroll](https://www.yourultimatesecurity.guide/home.html)
 
 #### Tools
 
