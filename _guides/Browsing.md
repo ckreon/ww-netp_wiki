@@ -31,7 +31,7 @@ There are many reasons a person may want or need anonymity. For more information
 
 ---
 
-<details open>
+<details>
 <summary>
 **Level 1 - Basic Private Browsing**
 <a class="anchor" name="level1"></a>
@@ -70,7 +70,7 @@ If you forgot to browse in a private mode, or want to make sure everything is cl
 
 </details>
 
-<details open>
+<details>
 <summary>
 **Level 2 - Browsing Via Proxy**
 <a class="anchor" name="level2"></a>
@@ -84,7 +84,7 @@ If your goal is to avoid geographic restrictions or mask your IP address from *s
 
 </details>
 
-<details open>
+<details>
 <summary>
 **Level 3 - Utilizing Encryption**
 <a class="anchor" name="level3"></a>
@@ -99,7 +99,7 @@ A better option is to utilize a VPN or Tor client. These tools help to improve p
 
 </details>
 
-<details open>
+<details>
 <summary>
 **Level 4 - Advanced Anonymity**
 <a class="anchor" name="level4"></a>

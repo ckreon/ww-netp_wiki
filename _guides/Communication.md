@@ -30,7 +30,7 @@ A walk-through of safe(r) communications recommendations.
 
 ---
 
-<details open>
+<details>
 <summary>
 **Level 1 - Basic Private Communication**
 <a class="anchor" name="level1"></a>
@@ -55,7 +55,7 @@ It should be noted that we may never know what companies have surveillance capab
 
 </details>
 
-<details open>
+<details>
 <summary>
 **Level 2 -Communication Via Proxy**
 <a class="anchor" name="level2"></a>
@@ -80,7 +80,7 @@ Never use a personal or known account. Only access those accounts after followin
 
 </details>
 
-<details open>
+<details>
 <summary>
 **Level 3 - Utilizing Public Key Encryption**
 <a class="anchor" name="level3"></a>
@@ -102,7 +102,7 @@ Special care should be taken when exchanging keys. This can be best done in pers
 
 </details>
 
-<details open>
+<details>
 <summary>
 **Level 4 - Advanced Communication**
 <a class="anchor" name="level4"></a>
