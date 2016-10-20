@@ -51,7 +51,7 @@ This prevents your browser from saving a browsing history and caching any cookie
 |[Google Chrome](https://support.google.com/chrome/answer/95464?hl=en)|
 |[Safari (OSX)](https://support.apple.com/kb/PH19216?locale=en_US)|
 |[Safari (iPhone/iPad/iPod Touch)](https://support.apple.com/en-us/HT203036)|
-|[Internet Explorer](http://windows.microsoft.com/en-us/windows7/protect-your-privacy-using-internet-explorer-9)|
+|Internet Explorer (link deprecated)|
 |[Microsoft Edge](http://windows.microsoft.com/en-us/windows-10/browse-inprivate-in-microsoft-edge)|
 
 
