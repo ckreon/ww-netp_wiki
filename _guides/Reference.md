@@ -18,11 +18,11 @@ Reference
 #### General
 
 * [Electronic Frontier Foundation - EFF](https://www.eff.org)
-* DEF CON (https://defcon.org)
+* DEF CON (link deprecated)
 * [WikiLeaks](https://wikileaks.org)
 * [Courage Foundation](https://www.couragefound.org)
 * [IntelTechniques](https://inteltechniques.com)
-* Your Ultimate Security Guide - Justin Carroll (https://www.yourultimatesecurity.guide/home.html)
+* Your Ultimate Security Guide - Justin Carroll (link deprecated)
 
 #### Tools
 
