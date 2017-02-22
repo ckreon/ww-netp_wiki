@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/ckreon/netp_wiki.svg?branch=master)](https://travis-ci.org/ckreon/netp_wiki)
+[![Build Status](https://travis-ci.org/ckreon/ww-netp_wiki.svg?branch=master)](https://travis-ci.org/ckreon/ww-netp_wiki)
 
 # NetP Wiki
 
