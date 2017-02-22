@@ -18,7 +18,7 @@ Reference
 #### General
 
 * [Electronic Frontier Foundation - EFF](https://www.eff.org)
-* [DEF CON](https://www.defcon.org)
+* [DEF CON](https://defcon.org)
 * [WikiLeaks](https://wikileaks.org)
 * [Courage Foundation](https://www.couragefound.org)
 * [IntelTechniques](https://inteltechniques.com)
